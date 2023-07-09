@@ -49,7 +49,7 @@ function checkUser(newUser){
 }
 
 router.route('/users/createUser')
-.post(saveUser, (req, res) => { 
+.post( saveUser, (req, res) => { 
     // check whether user already exists
     // check if the req body is valid
      console.log(users);
