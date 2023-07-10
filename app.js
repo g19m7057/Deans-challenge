@@ -12,5 +12,4 @@ app.get('/', (req, res) => {
     res.send('Home page');
 })
 
-
 module.exports = app;
