@@ -1,12 +1,12 @@
 const express = require('express');
 const app = express();
-const users = require('./routes/users')
+const users = require('./routes/users');
 
 // hide header information 
-const helment = require('helmet')
-app.use(helment())
+const helment = require('helmet');
+app.use(helment());
 
-app.use('/', users)
+app.use('/', users);
 
 app.get('/', (req, res) => {
     res.send('Home page');

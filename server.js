@@ -2,8 +2,7 @@ const app = require('./app');
 
 require('dotenv').config();
 
-const port = process.env.PORT || 400000;
-
+const port = process.env.DEV_PORT || 4000;
 
 const logger = require('./logger/logger')
 

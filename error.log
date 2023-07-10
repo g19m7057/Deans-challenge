@@ -1,0 +1,3 @@
+{"level":"error","message":"Error: ValidationError: \"email\" is required","timestamp":"2023-07-09T08:49:48.443Z"}
+{"level":"error","message":"User with email address resiss@gmail.com already exists","timestamp":"2023-07-09T08:53:19.736Z"}
+{"level":"error","message":"Error: ValidationError: \"firstname\" failed custom validation because Cannot read properties of undefined (reading 'presence')","timestamp":"2023-07-09T08:58:06.722Z"}
