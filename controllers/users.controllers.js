@@ -1,3 +1,6 @@
+const logger = require('../logger/logger');
+const userSchema = require('../schema/userschema')
+
 let users = [];
 
 exports.users = users;
@@ -26,7 +29,7 @@ exports.saveUser = function(error, req, res, next){
 function userExists(newUser){
     // check by email if user exists
     for(let i = 0; i < users.length; i++){
-        if(users[i].email_adress === newUser.email){
+         if(users[i].email_adress === newUser.email){
             return true;
         }
     }

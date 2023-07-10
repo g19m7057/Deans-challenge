@@ -51,3 +51,18 @@
 {"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T11:08:59.440Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T11:09:24.515Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Successfully created user ID: 2","timestamp":"2023-07-10T11:09:24.515Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:09:38.510Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:09:41.014Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully created user ID: 0","timestamp":"2023-07-10T12:09:41.019Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:10:00.164Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:10:02.753Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully created user ID: 0","timestamp":"2023-07-10T12:10:02.756Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:10:12.513Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:10:16.163Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: Cannot read properties of undefined (reading 'details')","timestamp":"2023-07-10T12:10:16.170Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:10:48.320Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:11:12.528Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:11:14.481Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:11:15.763Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully created user ID: 0","timestamp":"2023-07-10T12:11:15.763Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:17:24.266Z"}

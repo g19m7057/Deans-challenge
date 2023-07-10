@@ -10,3 +10,4 @@
 {"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T11:05:35.382Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T11:05:49.325Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T11:08:59.440Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: Cannot read properties of undefined (reading 'details')","timestamp":"2023-07-10T12:10:16.170Z"}
