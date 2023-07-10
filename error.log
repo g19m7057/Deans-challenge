@@ -31,3 +31,7 @@
 {"level":"\u001b[31merror\u001b[39m","message":"Error: \"email\" is required","timestamp":"2023-07-10T12:15:58.066Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T12:16:02.708Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T12:16:27.006Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T12:21:59.844Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: \"email\" is required","timestamp":"2023-07-10T12:22:02.770Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T12:22:05.877Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: \"email\" is required","timestamp":"2023-07-10T12:22:13.561Z"}

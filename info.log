@@ -275,3 +275,15 @@
 {"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:20:00.353Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:20:05.639Z"}
 {"level":"\u001b[32minfo\u001b[39m","message":"Successfully connected to port 4000","timestamp":"2023-07-10T12:20:23.674Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:21:58.109Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully created user ID: 1","timestamp":"2023-07-10T12:21:58.112Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:21:59.842Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T12:21:59.844Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:22:02.768Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: \"email\" is required","timestamp":"2023-07-10T12:22:02.770Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:22:05.875Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T12:22:05.877Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:22:10.731Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"Successfully created user ID: 2","timestamp":"2023-07-10T12:22:10.732Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"POST /users/createUser","timestamp":"2023-07-10T12:22:13.560Z"}
+{"level":"\u001b[31merror\u001b[39m","message":"Error: \"email\" is required","timestamp":"2023-07-10T12:22:13.561Z"}
