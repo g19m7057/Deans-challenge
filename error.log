@@ -35,3 +35,4 @@
 {"level":"\u001b[31merror\u001b[39m","message":"Error: \"email\" is required","timestamp":"2023-07-10T12:22:02.770Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"Error: user already exists","timestamp":"2023-07-10T12:22:05.877Z"}
 {"level":"\u001b[31merror\u001b[39m","message":"Error: \"email\" is required","timestamp":"2023-07-10T12:22:13.561Z"}
+{"level":"error","message":"Error: user already exists","timestamp":"2023-07-10T14:03:13.795Z"}
