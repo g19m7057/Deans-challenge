@@ -14,14 +14,10 @@ router.use((req, res, next) => {
   next();
 });
 
-router
-  .route("/users/createUser")
-  .post(userControllers.validateUser, userControllers.saveUser, (req, res) => {
-    logger.log({
-      level: "info",
-      message: `Successfully created user ID: ${userControllers.users.length}`,
-    });
-    res.json({ success: true, id: userControllers.users.length });
+router.route('/users/createUser')
+.post(userControllers.validateUser, userControllers.saveUser, (req, res) => { 
+    logger.log({level: 'info', message:`Successfully created user ID: ${userControllers.users.length}`});
+    res.json({'success': true, 'id': userControllers.users.length});
     console.log(userControllers.users);
   });
 
