@@ -1,6 +1,7 @@
 const express = require("express");
 const app = express();
 const users = require("./routes/users");
+const logger = require('./logger/logger')
 
 // hide header information
 const helment = require("helmet");
