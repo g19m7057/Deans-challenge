@@ -18,7 +18,6 @@ app.listen(port, (err) => {
     level: "info",
     message: `Successfully connected to port ${port}`,
   });
-  console.log(`Successfully connected to port ${port}`);
 });
 
 // log to file instead with winston logger

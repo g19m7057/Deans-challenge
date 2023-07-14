@@ -1,1 +1,81 @@
 2023-07-11T09:51:41.006Z error: Error: user already exists
+
+2023-07-12T06:25:22.876Z error: Error: "lastname" is required
+2023-07-12T06:25:24.180Z error: Error: "lastname" is required
+2023-07-12T06:25:29.331Z error: Error: "firstname" is required
+2023-07-12T06:25:32.151Z error: Error: user already exists
+2023-07-12T06:27:16.591Z error: Error: user already exists
+2023-07-12T06:27:20.775Z error: Error: user already exists
+2023-07-12T06:44:09.894Z error: Error: user already exists
+2023-07-12T06:44:17.541Z error: Error: user already exists
+2023-07-12T06:52:05.136Z error: Error: "email" is required
+2023-07-12T07:50:32.076Z error: Error: "email" is required
+2023-07-12T07:52:42.683Z error: Error: "firstname" is required
+2023-07-12T07:52:52.806Z error: Error: "email" is required
+2023-07-12T07:52:56.234Z error: Error: user already exists
+2023-07-13T07:42:42.704Z error: Error: user already exists
+2023-07-13T07:42:52.726Z error: Error: user already exists
+2023-07-13T07:42:56.837Z error: Error: user already exists
+2023-07-13T07:43:24.290Z error: Error: user already exists
+2023-07-13T07:44:11.834Z error: Error: user already exists
+2023-07-13T07:44:38.443Z error: Error: user already exists
+2023-07-13T07:45:14.976Z error: Error: user already exists
+2023-07-13T07:45:53.860Z error: Error: "email" is required
+2023-07-13T07:46:02.230Z error: Error: user already exists
+2023-07-13T07:46:53.410Z error: Error: user already exists
+2023-07-13T07:48:48.538Z error: Error: user already exists
+2023-07-13T07:49:53.695Z error: Error: user already exists
+2023-07-13T07:50:55.336Z error: Error: user already exists
+2023-07-13T07:58:29.637Z error: Error: user already exists
+2023-07-13T07:58:30.013Z error: User exists
+2023-07-13T07:58:37.437Z error: Error: user already exists
+2023-07-13T08:02:14.618Z error: Error: user already exists
+2023-07-13T08:03:01.648Z error: Error: user already exists
+2023-07-13T08:04:00.984Z error: User exists
+2023-07-13T08:04:00.987Z error: Error: user already exists
+2023-07-13T08:06:03.464Z error: User exists
+2023-07-13T08:06:03.468Z error: Error: user already exists
+2023-07-13T08:06:09.749Z error: Error: user already exists
+2023-07-13T08:06:11.718Z error: Error: user already exists
+2023-07-13T08:11:27.715Z error: User exists
+2023-07-13T08:11:27.724Z error: Error: user already exists
+2023-07-13T08:11:59.798Z error: Error: user already exists
+2023-07-13T08:12:02.567Z error: Error: user already exists
+2023-07-13T08:24:03.815Z error: Error: user already exists
+2023-07-13T08:24:50.323Z error: Error: user already exists
+2023-07-13T08:24:59.551Z error: Error: user already exists
+2023-07-13T08:25:12.714Z error: Error: user already exists
+2023-07-13T08:40:55.116Z error: Error: user already exists
+2023-07-13T08:41:02.396Z error: Error: user already exists
+2023-07-13T08:41:04.849Z error: Error: user already exists
+2023-07-13T08:41:08.077Z error: Error: user already exists
+2023-07-13T08:48:32.586Z error: User exists
+2023-07-13T08:48:32.592Z error: Error: user already exists
+2023-07-13T08:53:43.327Z error: User exists
+2023-07-13T08:53:43.330Z error: Error: user already exists
+2023-07-13T08:56:26.409Z error: User exists
+2023-07-13T08:56:26.417Z error: Error: user already exists
+2023-07-13T09:00:25.922Z error: User exists
+2023-07-13T09:00:25.925Z error: Error: user already exists
+2023-07-13T09:00:29.090Z error: Error: "email" is required
+2023-07-13T09:04:34.126Z error: User exists
+2023-07-13T09:04:34.130Z error: Error: user already exists
+2023-07-13T09:39:43.183Z error: User exists
+2023-07-13T09:39:43.186Z error: Error: user already exists
+2023-07-13T09:39:46.427Z error: Error: Invalid status code: undefined
+2023-07-13T09:40:25.040Z error: User exists
+2023-07-13T09:40:25.042Z error: Error: user already exists
+2023-07-13T09:40:38.974Z error: Error: Invalid status code: undefined
+2023-07-13T09:41:07.829Z error: User exists
+2023-07-13T09:41:07.832Z error: Error: user already exists
+2023-07-13T09:41:14.261Z error: Error: Invalid status code: undefined
+2023-07-13T09:42:03.377Z error: User exists
+2023-07-13T09:42:12.967Z error: User exists
+2023-07-13T09:42:33.627Z error: User exists
+2023-07-13T09:42:33.633Z error: Error: user already exists
+2023-07-13T09:48:58.094Z error: User exists
+2023-07-13T09:48:58.097Z error: Error: user already exists
+2023-07-13T10:17:13.143Z error: User exists
+2023-07-13T10:17:13.146Z error: Error: user already exists
+2023-07-13T10:18:49.607Z error: User exists
+2023-07-13T10:18:49.609Z error: Error: user already exists

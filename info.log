@@ -5,4 +5,568 @@
 2023-07-11T09:51:41.004Z info: POST /users/createUser
 2023-07-11T09:51:41.006Z error: Error: user already exists
 2023-07-11T09:54:30.412Z info: Successfully connected to port 4000
-2023-07-11T09:54:40.921Z info: Successfully connected to port 4000
+2023-07-11T09:54:40.921Z info: Successfully connected to port 40002023-07-12T06:25:11.915Z info: Successfully connected to port 4000
+2023-07-12T06:25:22.874Z info: POST /users/createUser
+2023-07-12T06:25:22.876Z error: Error: "lastname" is required
+2023-07-12T06:25:24.179Z info: POST /users/createUser
+2023-07-12T06:25:24.180Z error: Error: "lastname" is required
+2023-07-12T06:25:26.329Z info: POST /users/createUser
+2023-07-12T06:25:26.330Z info: Successfully created user ID: 1
+2023-07-12T06:25:29.330Z info: POST /users/createUser
+2023-07-12T06:25:29.331Z error: Error: "firstname" is required
+2023-07-12T06:25:32.149Z info: POST /users/createUser
+2023-07-12T06:25:32.151Z error: Error: user already exists
+2023-07-12T06:27:16.590Z info: POST /users/createUser
+2023-07-12T06:27:16.591Z error: Error: user already exists
+2023-07-12T06:27:20.774Z info: POST /users/createUser
+2023-07-12T06:27:20.775Z error: Error: user already exists
+2023-07-12T06:44:09.892Z info: POST /users/createUser
+2023-07-12T06:44:09.894Z error: Error: user already exists
+2023-07-12T06:44:17.540Z info: POST /users/createUser
+2023-07-12T06:44:17.541Z error: Error: user already exists
+2023-07-12T06:44:30.083Z info: POST /users/createUser
+2023-07-12T06:44:30.085Z info: Successfully created user ID: 2
+2023-07-12T06:44:53.310Z info: Successfully connected to port 4000
+2023-07-12T06:45:45.829Z info: Successfully connected to port 4000
+2023-07-12T06:48:17.963Z info: Successfully connected to port 4000
+2023-07-12T06:52:05.134Z info: POST /users/createUser
+2023-07-12T06:52:05.136Z error: Error: "email" is required
+2023-07-12T07:50:32.075Z info: POST /users/createUser
+2023-07-12T07:50:32.076Z error: Error: "email" is required
+2023-07-12T07:50:37.433Z info: POST /users/createUser
+2023-07-12T07:50:37.437Z info: Successfully created user ID: 1
+2023-07-12T07:52:42.681Z info: POST /users/createUser
+2023-07-12T07:52:42.683Z error: Error: "firstname" is required
+2023-07-12T07:52:52.802Z info: POST /users/createUser
+2023-07-12T07:52:52.806Z error: Error: "email" is required
+2023-07-12T07:52:56.228Z info: POST /users/createUser
+2023-07-12T07:52:56.234Z error: Error: user already exists
+2023-07-12T07:53:09.580Z info: POST /users/createUser
+2023-07-12T07:53:09.581Z info: Successfully created user ID: 2
+2023-07-13T06:12:18.162Z info: Successfully connected to port 4000
+2023-07-13T06:12:31.260Z info: Successfully connected to port 4000
+2023-07-13T06:12:52.529Z info: Successfully connected to port 4000
+2023-07-13T06:13:15.526Z info: Successfully connected to port 4000
+2023-07-13T06:13:27.763Z info: Successfully connected to port 4000
+2023-07-13T06:13:32.393Z info: Successfully connected to port 4000
+2023-07-13T06:15:55.075Z info: Successfully connected to port 4000
+2023-07-13T06:16:02.852Z info: Successfully connected to port 4000
+2023-07-13T06:16:05.684Z info: Successfully connected to port 4000
+2023-07-13T06:16:07.145Z info: Successfully connected to port 4000
+2023-07-13T06:16:17.580Z info: Successfully connected to port 4000
+2023-07-13T06:16:25.561Z info: Successfully connected to port 4000
+2023-07-13T06:16:27.816Z info: Successfully connected to port 4000
+2023-07-13T06:16:30.467Z info: Successfully connected to port 4000
+2023-07-13T06:16:49.193Z info: Successfully connected to port 4000
+2023-07-13T06:19:03.500Z info: Successfully connected to port 4000
+2023-07-13T06:19:30.950Z info: Successfully connected to port 4000
+2023-07-13T06:19:46.663Z info: Successfully connected to port 4000
+2023-07-13T06:19:52.718Z info: Successfully connected to port 4000
+2023-07-13T06:19:57.312Z info: Successfully connected to port 4000
+2023-07-13T06:20:00.649Z info: Successfully connected to port 4000
+2023-07-13T06:20:03.242Z info: Successfully connected to port 4000
+2023-07-13T06:20:11.480Z info: Successfully connected to port 4000
+2023-07-13T06:20:15.302Z info: Successfully connected to port 4000
+2023-07-13T06:20:17.640Z info: Successfully connected to port 4000
+2023-07-13T06:20:23.832Z info: Successfully connected to port 4000
+2023-07-13T06:20:27.019Z info: Successfully connected to port 4000
+2023-07-13T06:20:28.079Z info: Successfully connected to port 4000
+2023-07-13T06:20:30.271Z info: Successfully connected to port 4000
+2023-07-13T06:20:33.506Z info: Successfully connected to port 4000
+2023-07-13T06:20:36.004Z info: Successfully connected to port 4000
+2023-07-13T06:20:38.175Z info: Successfully connected to port 4000
+2023-07-13T06:20:43.206Z info: Successfully connected to port 4000
+2023-07-13T06:20:48.077Z info: Successfully connected to port 4000
+2023-07-13T06:20:49.304Z info: Successfully connected to port 4000
+2023-07-13T06:20:53.697Z info: Successfully connected to port 4000
+2023-07-13T06:20:55.642Z info: Successfully connected to port 4000
+2023-07-13T06:21:04.284Z info: Successfully connected to port 4000
+2023-07-13T06:21:05.714Z info: Successfully connected to port 4000
+2023-07-13T06:21:09.730Z info: Successfully connected to port 4000
+2023-07-13T06:21:15.000Z info: Successfully connected to port 4000
+2023-07-13T06:21:18.424Z info: Successfully connected to port 4000
+2023-07-13T06:24:06.691Z info: Successfully connected to port 4000
+2023-07-13T06:24:11.536Z info: Successfully connected to port 4000
+2023-07-13T06:24:35.982Z info: Successfully connected to port 4000
+2023-07-13T06:24:57.579Z info: Successfully connected to port 4000
+2023-07-13T06:25:16.994Z info: Successfully connected to port 4000
+2023-07-13T06:25:35.138Z info: Successfully connected to port 4000
+2023-07-13T06:27:02.013Z info: Successfully connected to port 4000
+2023-07-13T06:27:08.922Z info: Successfully connected to port 4000
+2023-07-13T06:27:34.236Z info: Successfully connected to port 4000
+2023-07-13T06:27:35.808Z info: Successfully connected to port 4000
+2023-07-13T06:27:44.516Z info: Successfully connected to port 4000
+2023-07-13T06:29:53.724Z info: Successfully connected to port 4000
+2023-07-13T06:29:56.573Z info: Successfully connected to port 4000
+2023-07-13T06:30:00.886Z info: Successfully connected to port 4000
+2023-07-13T06:31:25.712Z info: Successfully connected to port 4000
+2023-07-13T06:31:28.462Z info: Successfully connected to port 4000
+2023-07-13T06:31:30.513Z info: Successfully connected to port 4000
+2023-07-13T06:32:00.150Z info: Successfully connected to port 4000
+2023-07-13T06:32:09.103Z info: Successfully connected to port 4000
+2023-07-13T06:32:24.618Z info: Successfully connected to port 4000
+2023-07-13T06:32:25.799Z info: Successfully connected to port 4000
+2023-07-13T06:32:26.812Z info: Successfully connected to port 4000
+2023-07-13T06:32:28.193Z info: Successfully connected to port 4000
+2023-07-13T06:32:36.150Z info: Successfully connected to port 4000
+2023-07-13T06:32:39.362Z info: Successfully connected to port 4000
+2023-07-13T06:32:42.673Z info: Successfully connected to port 4000
+2023-07-13T06:33:12.993Z info: Successfully connected to port 4000
+2023-07-13T06:33:16.995Z info: Successfully connected to port 4000
+2023-07-13T06:33:24.106Z info: Successfully connected to port 4000
+2023-07-13T06:33:36.710Z info: Successfully connected to port 4000
+2023-07-13T06:33:38.732Z info: Successfully connected to port 4000
+2023-07-13T06:33:42.538Z info: Successfully connected to port 4000
+2023-07-13T06:33:44.288Z info: Successfully connected to port 4000
+2023-07-13T06:33:51.364Z info: Successfully connected to port 4000
+2023-07-13T06:33:56.884Z info: Successfully connected to port 4000
+2023-07-13T06:33:59.640Z info: Successfully connected to port 4000
+2023-07-13T06:34:01.904Z info: Successfully connected to port 4000
+2023-07-13T06:34:03.581Z info: Successfully connected to port 4000
+2023-07-13T06:34:10.275Z info: Successfully connected to port 4000
+2023-07-13T06:34:13.390Z info: Successfully connected to port 4000
+2023-07-13T06:34:29.608Z info: Successfully connected to port 4000
+2023-07-13T06:34:33.244Z info: Successfully connected to port 4000
+2023-07-13T06:34:36.515Z info: Successfully connected to port 4000
+2023-07-13T06:34:41.984Z info: Successfully connected to port 4000
+2023-07-13T06:35:07.574Z info: POST /users/createUser
+2023-07-13T06:36:29.265Z info: Successfully connected to port 4000
+2023-07-13T06:36:38.516Z info: Successfully connected to port 4000
+2023-07-13T06:46:30.136Z info: Successfully connected to port 4000
+2023-07-13T06:46:31.020Z info: Successfully connected to port 4000
+2023-07-13T06:46:47.418Z info: Successfully connected to port 4000
+2023-07-13T06:46:56.021Z info: Successfully connected to port 4000
+2023-07-13T06:47:03.395Z info: Successfully connected to port 4000
+2023-07-13T06:47:09.874Z info: Successfully connected to port 4000
+2023-07-13T06:47:17.942Z info: Successfully connected to port 4000
+2023-07-13T06:47:42.222Z info: Successfully connected to port 4000
+2023-07-13T06:47:45.015Z info: Successfully connected to port 4000
+2023-07-13T06:47:54.564Z info: Successfully connected to port 4000
+2023-07-13T07:10:38.107Z info: Successfully connected to port 4000
+2023-07-13T07:10:40.519Z info: Successfully connected to port 4000
+2023-07-13T07:10:43.671Z info: Successfully connected to port 4000
+2023-07-13T07:11:26.997Z info: Successfully connected to port 4000
+2023-07-13T07:12:08.881Z info: Successfully connected to port 4000
+2023-07-13T07:12:40.201Z info: Successfully connected to port 4000
+2023-07-13T07:13:05.156Z info: Successfully connected to port 4000
+2023-07-13T07:13:06.693Z info: Successfully connected to port 4000
+2023-07-13T07:13:44.747Z info: Successfully connected to port 4000
+2023-07-13T07:15:07.114Z info: Successfully connected to port 4000
+2023-07-13T07:15:19.789Z info: Successfully connected to port 4000
+2023-07-13T07:15:28.719Z info: Successfully connected to port 4000
+2023-07-13T07:20:56.648Z info: Successfully connected to port 4000
+2023-07-13T07:20:58.322Z info: Successfully connected to port 4000
+2023-07-13T07:22:14.543Z info: Successfully connected to port 4000
+2023-07-13T07:22:28.018Z info: Successfully connected to port 4000
+2023-07-13T07:22:29.993Z info: Successfully connected to port 4000
+2023-07-13T07:22:38.196Z info: Successfully connected to port 4000
+2023-07-13T07:23:33.447Z info: Successfully connected to port 4000
+2023-07-13T07:30:03.829Z info: Successfully connected to port 4000
+2023-07-13T07:30:44.311Z info: Successfully connected to port 4000
+2023-07-13T07:31:34.252Z info: Successfully connected to port 4000
+2023-07-13T07:31:37.278Z info: Successfully connected to port 4000
+2023-07-13T07:31:41.992Z info: Successfully connected to port 4000
+2023-07-13T07:31:44.719Z info: Successfully connected to port 4000
+2023-07-13T07:31:46.924Z info: Successfully connected to port 4000
+2023-07-13T07:31:53.909Z info: Successfully connected to port 4000
+2023-07-13T07:31:55.028Z info: Successfully connected to port 4000
+2023-07-13T07:33:58.863Z info: Successfully connected to port 4000
+2023-07-13T07:34:02.143Z info: Successfully connected to port 4000
+2023-07-13T07:35:13.932Z info: Successfully connected to port 4000
+2023-07-13T07:35:16.104Z info: Successfully connected to port 4000
+2023-07-13T07:35:18.308Z info: Successfully connected to port 4000
+2023-07-13T07:35:19.625Z info: Successfully connected to port 4000
+2023-07-13T07:35:20.662Z info: Successfully connected to port 4000
+2023-07-13T07:42:11.816Z info: Successfully connected to port 4000
+2023-07-13T07:42:12.912Z info: Successfully connected to port 4000
+2023-07-13T07:42:20.188Z info: Successfully connected to port 4000
+2023-07-13T07:42:21.656Z info: Successfully connected to port 4000
+2023-07-13T07:42:24.152Z info: Successfully connected to port 4000
+2023-07-13T07:42:25.162Z info: Successfully connected to port 4000
+2023-07-13T07:42:26.854Z info: Successfully connected to port 4000
+2023-07-13T07:42:28.606Z info: Successfully connected to port 4000
+2023-07-13T07:42:30.782Z info: Successfully connected to port 4000
+2023-07-13T07:42:32.064Z info: Successfully connected to port 4000
+2023-07-13T07:42:35.203Z info: Successfully connected to port 4000
+2023-07-13T07:42:42.699Z info: POST /users/createUser
+2023-07-13T07:42:42.704Z error: Error: user already exists
+2023-07-13T07:42:52.724Z info: POST /users/createUser
+2023-07-13T07:42:52.726Z error: Error: user already exists
+2023-07-13T07:42:56.835Z info: POST /users/createUser
+2023-07-13T07:42:56.837Z error: Error: user already exists
+2023-07-13T07:43:12.725Z info: Successfully connected to port 4000
+2023-07-13T07:43:24.285Z info: POST /users/createUser
+2023-07-13T07:43:24.290Z error: Error: user already exists
+2023-07-13T07:44:00.304Z info: Successfully connected to port 4000
+2023-07-13T07:44:03.523Z info: Successfully connected to port 4000
+2023-07-13T07:44:07.393Z info: Successfully connected to port 4000
+2023-07-13T07:44:11.829Z info: POST /users/createUser
+2023-07-13T07:44:23.646Z info: Successfully connected to port 4000
+2023-07-13T07:44:28.787Z info: Successfully connected to port 4000
+2023-07-13T07:44:38.439Z info: POST /users/createUser
+2023-07-13T07:44:38.443Z error: Error: user already exists
+2023-07-13T07:44:51.673Z info: Successfully connected to port 4000
+2023-07-13T07:45:14.971Z info: POST /users/createUser
+2023-07-13T07:45:14.976Z error: Error: user already exists
+2023-07-13T07:45:48.721Z info: Successfully connected to port 4000
+2023-07-13T07:45:53.858Z info: POST /users/createUser
+2023-07-13T07:45:53.860Z error: Error: "email" is required
+2023-07-13T07:46:02.225Z info: POST /users/createUser
+2023-07-13T07:46:02.230Z error: Error: user already exists
+2023-07-13T07:46:28.324Z info: Successfully connected to port 4000
+2023-07-13T07:46:29.690Z info: Successfully connected to port 4000
+2023-07-13T07:46:36.292Z info: Successfully connected to port 4000
+2023-07-13T07:46:49.674Z info: Successfully connected to port 4000
+2023-07-13T07:46:53.406Z info: POST /users/createUser
+2023-07-13T07:46:53.410Z error: Error: user already exists
+2023-07-13T07:47:09.965Z info: Successfully connected to port 4000
+2023-07-13T07:47:12.982Z info: Successfully connected to port 4000
+2023-07-13T07:47:22.778Z info: Successfully connected to port 4000
+2023-07-13T07:47:27.587Z info: Successfully connected to port 4000
+2023-07-13T07:47:33.553Z info: Successfully connected to port 4000
+2023-07-13T07:47:43.010Z info: Successfully connected to port 4000
+2023-07-13T07:47:46.929Z info: Successfully connected to port 4000
+2023-07-13T07:48:01.545Z info: Successfully connected to port 4000
+2023-07-13T07:48:02.764Z info: Successfully connected to port 4000
+2023-07-13T07:48:08.051Z info: Successfully connected to port 4000
+2023-07-13T07:48:16.145Z info: Successfully connected to port 4000
+2023-07-13T07:48:35.691Z info: Successfully connected to port 4000
+2023-07-13T07:48:40.055Z info: Successfully connected to port 4000
+2023-07-13T07:48:48.533Z info: POST /users/createUser
+2023-07-13T07:48:48.538Z error: Error: user already exists
+2023-07-13T07:49:37.505Z info: Successfully connected to port 4000
+2023-07-13T07:49:42.061Z info: Successfully connected to port 4000
+2023-07-13T07:49:45.731Z info: Successfully connected to port 4000
+2023-07-13T07:49:51.239Z info: Successfully connected to port 4000
+2023-07-13T07:49:53.689Z info: POST /users/createUser
+2023-07-13T07:49:53.695Z error: Error: user already exists
+2023-07-13T07:50:30.334Z info: Successfully connected to port 4000
+2023-07-13T07:50:33.342Z info: Successfully connected to port 4000
+2023-07-13T07:50:40.193Z info: Successfully connected to port 4000
+2023-07-13T07:50:55.331Z info: POST /users/createUser
+2023-07-13T07:50:55.336Z error: Error: user already exists
+2023-07-13T07:51:10.622Z info: Successfully connected to port 4000
+2023-07-13T07:51:11.873Z info: POST /users/createUser
+2023-07-13T07:51:16.206Z info: Successfully created user ID: 0
+2023-07-13T07:51:33.607Z info: Successfully connected to port 4000
+2023-07-13T07:51:35.995Z info: Successfully connected to port 4000
+2023-07-13T07:51:41.293Z info: Successfully connected to port 4000
+2023-07-13T07:52:49.995Z info: Successfully connected to port 4000
+2023-07-13T07:55:26.494Z info: Successfully connected to port 4000
+2023-07-13T07:55:31.445Z info: Successfully connected to port 4000
+2023-07-13T07:55:33.813Z info: Successfully connected to port 4000
+2023-07-13T07:55:49.316Z info: POST /users/createUser
+2023-07-13T07:55:51.647Z info: Successfully created user ID: 0
+2023-07-13T07:56:26.067Z info: Successfully connected to port 4000
+2023-07-13T07:56:43.856Z info: Successfully connected to port 4000
+2023-07-13T07:57:17.143Z info: Successfully connected to port 4000
+2023-07-13T07:57:27.945Z info: Successfully connected to port 4000
+2023-07-13T07:57:53.303Z info: Successfully connected to port 4000
+2023-07-13T07:58:13.106Z info: Successfully connected to port 4000
+2023-07-13T07:58:23.224Z info: Successfully connected to port 4000
+2023-07-13T07:58:24.419Z info: Successfully connected to port 4000
+2023-07-13T07:58:29.632Z info: POST /users/createUser
+2023-07-13T07:58:29.637Z error: Error: user already exists
+2023-07-13T07:58:30.013Z error: User exists
+2023-07-13T07:58:37.435Z info: POST /users/createUser
+2023-07-13T07:58:37.437Z error: Error: user already exists
+2023-07-13T07:59:53.562Z info: Successfully connected to port 4000
+2023-07-13T08:01:52.663Z info: Successfully connected to port 4000
+2023-07-13T08:01:54.338Z info: Successfully connected to port 4000
+2023-07-13T08:01:55.884Z info: Successfully connected to port 4000
+2023-07-13T08:01:57.058Z info: Successfully connected to port 4000
+2023-07-13T08:02:00.062Z info: Successfully connected to port 4000
+2023-07-13T08:02:07.260Z info: Successfully connected to port 4000
+2023-07-13T08:02:14.612Z info: POST /users/createUser
+2023-07-13T08:02:14.618Z error: Error: user already exists
+2023-07-13T08:02:53.048Z info: Successfully connected to port 4000
+2023-07-13T08:03:01.265Z info: POST /users/createUser
+2023-07-13T08:03:01.648Z error: Error: user already exists
+2023-07-13T08:03:14.255Z info: Successfully connected to port 4000
+2023-07-13T08:03:18.902Z info: Successfully connected to port 4000
+2023-07-13T08:03:21.826Z info: Successfully connected to port 4000
+2023-07-13T08:03:56.565Z info: POST /users/createUser
+2023-07-13T08:03:57.348Z info: Successfully created user ID: 0
+2023-07-13T08:04:00.595Z info: POST /users/createUser
+2023-07-13T08:04:00.984Z error: User exists
+2023-07-13T08:04:00.987Z error: Error: user already exists
+2023-07-13T08:04:23.322Z info: Successfully connected to port 4000
+2023-07-13T08:04:24.546Z info: Successfully connected to port 4000
+2023-07-13T08:04:38.343Z info: Successfully connected to port 4000
+2023-07-13T08:05:53.399Z info: Successfully connected to port 4000
+2023-07-13T08:05:57.335Z info: Successfully connected to port 4000
+2023-07-13T08:05:59.116Z info: Successfully connected to port 4000
+2023-07-13T08:06:01.068Z info: POST /users/createUser
+2023-07-13T08:06:03.464Z error: User exists
+2023-07-13T08:06:03.468Z error: Error: user already exists
+2023-07-13T08:06:09.740Z info: POST /users/createUser
+2023-07-13T08:06:09.749Z error: Error: user already exists
+2023-07-13T08:06:11.713Z info: POST /users/createUser
+2023-07-13T08:06:11.718Z error: Error: user already exists
+2023-07-13T08:06:20.376Z info: Successfully connected to port 4000
+2023-07-13T08:06:23.854Z info: Successfully connected to port 4000
+2023-07-13T08:06:25.426Z info: POST /users/createUser
+2023-07-13T08:06:28.116Z info: Successfully created user ID: 0
+2023-07-13T08:07:02.481Z info: Successfully connected to port 4000
+2023-07-13T08:07:20.638Z info: Successfully connected to port 4000
+2023-07-13T08:07:29.157Z info: Successfully connected to port 4000
+2023-07-13T08:07:35.853Z info: Successfully connected to port 4000
+2023-07-13T08:07:38.703Z info: Successfully connected to port 4000
+2023-07-13T08:07:41.460Z info: Successfully connected to port 4000
+2023-07-13T08:10:29.648Z info: Successfully connected to port 4000
+2023-07-13T08:10:31.239Z info: Successfully connected to port 4000
+2023-07-13T08:10:35.471Z info: Successfully connected to port 4000
+2023-07-13T08:10:38.184Z info: Successfully connected to port 4000
+2023-07-13T08:11:18.300Z info: Successfully connected to port 4000
+2023-07-13T08:11:27.329Z info: POST /users/createUser
+2023-07-13T08:11:27.715Z error: User exists
+2023-07-13T08:11:27.724Z error: Error: user already exists
+2023-07-13T08:11:59.791Z info: POST /users/createUser
+2023-07-13T08:11:59.798Z error: Error: user already exists
+2023-07-13T08:12:02.561Z info: POST /users/createUser
+2023-07-13T08:12:02.567Z error: Error: user already exists
+2023-07-13T08:12:15.041Z info: Successfully connected to port 4000
+2023-07-13T08:12:17.549Z info: POST /users/createUser
+2023-07-13T08:12:20.226Z info: Successfully created user ID: 0
+2023-07-13T08:13:03.612Z info: Successfully connected to port 4000
+2023-07-13T08:13:15.566Z info: Successfully connected to port 4000
+2023-07-13T08:13:17.734Z info: Successfully connected to port 4000
+2023-07-13T08:13:20.225Z info: Successfully connected to port 4000
+2023-07-13T08:13:22.754Z info: Successfully connected to port 4000
+2023-07-13T08:13:29.974Z info: Successfully connected to port 4000
+2023-07-13T08:13:32.859Z info: Successfully connected to port 4000
+2023-07-13T08:13:36.229Z info: Successfully connected to port 4000
+2023-07-13T08:15:30.514Z info: Successfully connected to port 4000
+2023-07-13T08:21:55.937Z info: Successfully connected to port 4000
+2023-07-13T08:23:56.625Z info: Successfully connected to port 4000
+2023-07-13T08:24:03.807Z info: POST /users/createUser
+2023-07-13T08:24:03.815Z error: Error: user already exists
+2023-07-13T08:24:50.318Z info: POST /users/createUser
+2023-07-13T08:24:50.323Z error: Error: user already exists
+2023-07-13T08:24:59.548Z info: POST /users/createUser
+2023-07-13T08:24:59.551Z error: Error: user already exists
+2023-07-13T08:25:12.710Z info: POST /users/createUser
+2023-07-13T08:25:12.714Z error: Error: user already exists
+2023-07-13T08:25:24.768Z info: Successfully connected to port 4000
+2023-07-13T08:25:38.450Z info: POST /users/createUser
+2023-07-13T08:25:39.226Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T08:36:10.965Z info: Successfully connected to port 4000
+2023-07-13T08:36:49.496Z info: Successfully connected to port 4000
+2023-07-13T08:36:54.503Z info: Successfully connected to port 4000
+2023-07-13T08:36:59.064Z info: Successfully connected to port 4000
+2023-07-13T08:37:14.518Z info: Successfully connected to port 4000
+2023-07-13T08:37:16.827Z info: Successfully connected to port 4000
+2023-07-13T08:37:26.644Z info: Successfully connected to port 4000
+2023-07-13T08:37:44.518Z info: Successfully connected to port 4000
+2023-07-13T08:38:00.129Z info: Successfully connected to port 4000
+2023-07-13T08:38:26.073Z info: Successfully connected to port 4000
+2023-07-13T08:38:28.823Z info: Successfully connected to port 4000
+2023-07-13T08:38:30.822Z info: Successfully connected to port 4000
+2023-07-13T08:38:36.250Z info: Successfully connected to port 4000
+2023-07-13T08:38:42.811Z info: Successfully connected to port 4000
+2023-07-13T08:38:43.852Z info: Successfully connected to port 4000
+2023-07-13T08:38:48.130Z info: Successfully connected to port 4000
+2023-07-13T08:40:20.953Z info: Successfully connected to port 4000
+2023-07-13T08:40:39.390Z info: POST /users/createUser
+2023-07-13T08:40:40.530Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T08:40:55.108Z info: POST /users/createUser
+2023-07-13T08:40:55.116Z error: Error: user already exists
+2023-07-13T08:41:02.383Z info: POST /users/createUser
+2023-07-13T08:41:02.396Z error: Error: user already exists
+2023-07-13T08:41:04.843Z info: POST /users/createUser
+2023-07-13T08:41:04.849Z error: Error: user already exists
+2023-07-13T08:41:08.073Z info: POST /users/createUser
+2023-07-13T08:41:08.077Z error: Error: user already exists
+2023-07-13T08:41:33.621Z info: Successfully connected to port 4000
+2023-07-13T08:42:04.568Z info: Successfully connected to port 4000
+2023-07-13T08:42:09.655Z info: POST /users/createUser
+2023-07-13T08:42:10.814Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T08:47:26.493Z info: Successfully connected to port 4000
+2023-07-13T08:47:56.657Z info: Successfully connected to port 4000
+2023-07-13T08:48:11.485Z info: Successfully connected to port 4000
+2023-07-13T08:48:12.868Z info: Successfully connected to port 4000
+2023-07-13T08:48:15.917Z info: Successfully connected to port 4000
+2023-07-13T08:48:24.675Z info: Successfully connected to port 4000
+2023-07-13T08:48:27.555Z info: Successfully connected to port 4000
+2023-07-13T08:48:30.259Z info: POST /users/createUser
+2023-07-13T08:48:32.586Z error: User exists
+2023-07-13T08:48:32.592Z error: Error: user already exists
+2023-07-13T08:48:39.926Z info: POST /users/createUser
+2023-07-13T08:48:40.706Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T08:52:44.461Z info: Successfully connected to port 4000
+2023-07-13T08:52:47.451Z info: Successfully connected to port 4000
+2023-07-13T08:52:48.540Z info: Successfully connected to port 4000
+2023-07-13T08:52:55.933Z info: Successfully connected to port 4000
+2023-07-13T08:53:20.030Z info: Successfully connected to port 4000
+2023-07-13T08:53:27.488Z info: Successfully connected to port 4000
+2023-07-13T08:53:37.960Z info: Successfully connected to port 4000
+2023-07-13T08:53:42.938Z info: POST /users/createUser
+2023-07-13T08:53:43.327Z error: User exists
+2023-07-13T08:53:43.330Z error: Error: user already exists
+2023-07-13T08:54:04.908Z info: Successfully connected to port 4000
+2023-07-13T08:54:44.281Z info: Successfully connected to port 4000
+2023-07-13T08:55:31.685Z info: Successfully connected to port 4000
+2023-07-13T08:55:34.956Z info: Successfully connected to port 4000
+2023-07-13T08:55:44.908Z info: Successfully connected to port 4000
+2023-07-13T08:55:59.090Z info: Successfully connected to port 4000
+2023-07-13T08:56:00.278Z info: Successfully connected to port 4000
+2023-07-13T08:56:01.950Z info: Successfully connected to port 4000
+2023-07-13T08:56:20.169Z info: Successfully connected to port 4000
+2023-07-13T08:56:26.026Z info: POST /users/createUser
+2023-07-13T08:56:26.409Z error: User exists
+2023-07-13T08:56:26.417Z error: Error: user already exists
+2023-07-13T08:56:34.258Z info: POST /users/createUser
+2023-07-13T08:56:35.050Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T08:57:37.534Z info: Successfully connected to port 4000
+2023-07-13T08:57:41.871Z info: Successfully connected to port 4000
+2023-07-13T08:57:50.474Z info: Successfully connected to port 4000
+2023-07-13T08:58:01.570Z info: Successfully connected to port 4000
+2023-07-13T08:58:03.731Z info: Successfully connected to port 4000
+2023-07-13T08:58:07.494Z info: Successfully connected to port 4000
+2023-07-13T08:58:09.781Z info: Successfully connected to port 4000
+2023-07-13T08:58:11.577Z info: Successfully connected to port 4000
+2023-07-13T08:58:15.499Z info: Successfully connected to port 4000
+2023-07-13T08:58:24.934Z info: Successfully connected to port 4000
+2023-07-13T08:58:29.737Z info: Successfully connected to port 4000
+2023-07-13T08:58:32.500Z info: Successfully connected to port 4000
+2023-07-13T08:58:41.849Z info: Successfully connected to port 4000
+2023-07-13T08:58:47.161Z info: Successfully connected to port 4000
+2023-07-13T08:58:53.606Z info: Successfully connected to port 4000
+2023-07-13T08:58:57.701Z info: Successfully connected to port 4000
+2023-07-13T08:59:01.728Z info: Successfully connected to port 4000
+2023-07-13T08:59:10.978Z info: Successfully connected to port 4000
+2023-07-13T08:59:16.447Z info: Successfully connected to port 4000
+2023-07-13T08:59:36.653Z info: Successfully connected to port 4000
+2023-07-13T08:59:40.053Z info: Successfully connected to port 4000
+2023-07-13T08:59:52.794Z info: Successfully connected to port 4000
+2023-07-13T08:59:55.207Z info: Successfully connected to port 4000
+2023-07-13T09:00:20.123Z info: Successfully connected to port 4000
+2023-07-13T09:00:23.612Z info: POST /users/createUser
+2023-07-13T09:00:25.922Z error: User exists
+2023-07-13T09:00:25.925Z error: Error: user already exists
+2023-07-13T09:00:29.088Z info: POST /users/createUser
+2023-07-13T09:00:29.090Z error: Error: "email" is required
+2023-07-13T09:00:36.814Z info: POST /users/createUser
+2023-07-13T09:00:37.975Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:02:21.648Z info: Successfully connected to port 4000
+2023-07-13T09:04:07.378Z info: Successfully connected to port 4000
+2023-07-13T09:04:12.937Z info: Successfully connected to port 4000
+2023-07-13T09:04:14.364Z info: Successfully connected to port 4000
+2023-07-13T09:04:18.011Z info: Successfully connected to port 4000
+2023-07-13T09:04:20.530Z info: Successfully connected to port 4000
+2023-07-13T09:04:33.751Z info: POST /users/createUser
+2023-07-13T09:04:34.126Z error: User exists
+2023-07-13T09:04:34.130Z error: Error: user already exists
+2023-07-13T09:04:39.604Z info: POST /users/createUser
+2023-07-13T09:04:40.728Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:06:44.314Z info: Successfully connected to port 4000
+2023-07-13T09:06:54.090Z info: Successfully connected to port 4000
+2023-07-13T09:06:56.537Z info: Successfully connected to port 4000
+2023-07-13T09:07:09.180Z info: Successfully connected to port 4000
+2023-07-13T09:07:12.831Z info: Successfully connected to port 4000
+2023-07-13T09:07:14.082Z info: Successfully connected to port 4000
+2023-07-13T09:07:15.789Z info: Successfully connected to port 4000
+2023-07-13T09:07:17.926Z info: Successfully connected to port 4000
+2023-07-13T09:07:20.250Z info: Successfully connected to port 4000
+2023-07-13T09:07:21.301Z info: Successfully connected to port 4000
+2023-07-13T09:07:24.025Z info: Successfully connected to port 4000
+2023-07-13T09:07:49.512Z info: Successfully connected to port 4000
+2023-07-13T09:08:59.891Z info: Successfully connected to port 4000
+2023-07-13T09:10:01.273Z info: Successfully connected to port 4000
+2023-07-13T09:10:17.125Z info: Successfully connected to port 4000
+2023-07-13T09:10:20.777Z info: Successfully connected to port 4000
+2023-07-13T09:10:27.470Z info: Successfully connected to port 4000
+2023-07-13T09:37:18.608Z info: Successfully connected to port 4000
+2023-07-13T09:37:21.711Z info: Successfully connected to port 4000
+2023-07-13T09:37:48.307Z info: Successfully connected to port 4000
+2023-07-13T09:39:36.543Z info: Successfully connected to port 4000
+2023-07-13T09:39:40.921Z info: POST /users/createUser
+2023-07-13T09:39:43.183Z error: User exists
+2023-07-13T09:39:43.186Z error: Error: user already exists
+2023-07-13T09:39:45.291Z info: POST /users/createUser
+2023-07-13T09:39:46.426Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:39:46.427Z error: Error: Invalid status code: undefined
+2023-07-13T09:40:19.905Z info: Successfully connected to port 4000
+2023-07-13T09:40:24.649Z info: POST /users/createUser
+2023-07-13T09:40:25.040Z error: User exists
+2023-07-13T09:40:25.042Z error: Error: user already exists
+2023-07-13T09:40:37.803Z info: POST /users/createUser
+2023-07-13T09:40:38.971Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:40:38.974Z error: Error: Invalid status code: undefined
+2023-07-13T09:40:57.865Z info: Successfully connected to port 4000
+2023-07-13T09:41:07.449Z info: POST /users/createUser
+2023-07-13T09:41:07.829Z error: User exists
+2023-07-13T09:41:07.832Z error: Error: user already exists
+2023-07-13T09:41:13.116Z info: POST /users/createUser
+2023-07-13T09:41:14.259Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:41:14.261Z error: Error: Invalid status code: undefined
+2023-07-13T09:41:42.056Z info: Successfully connected to port 4000
+2023-07-13T09:41:46.041Z info: Successfully connected to port 4000
+2023-07-13T09:41:52.571Z info: Successfully connected to port 4000
+2023-07-13T09:41:54.889Z info: Successfully connected to port 4000
+2023-07-13T09:42:02.989Z info: POST /users/createUser
+2023-07-13T09:42:03.377Z error: User exists
+2023-07-13T09:42:08.038Z info: POST /users/createUser
+2023-07-13T09:42:09.201Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:42:12.585Z info: POST /users/createUser
+2023-07-13T09:42:12.967Z error: User exists
+2023-07-13T09:42:29.505Z info: Successfully connected to port 4000
+2023-07-13T09:42:31.310Z info: POST /users/createUser
+2023-07-13T09:42:33.627Z error: User exists
+2023-07-13T09:42:33.633Z error: Error: user already exists
+2023-07-13T09:47:16.818Z info: Successfully connected to port 4000
+2023-07-13T09:47:20.647Z info: POST /users/createUser
+2023-07-13T09:47:23.753Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:47:38.593Z info: Successfully connected to port 4000
+2023-07-13T09:47:39.998Z info: Successfully connected to port 4000
+2023-07-13T09:47:51.312Z info: Successfully connected to port 4000
+2023-07-13T09:48:19.317Z info: Successfully connected to port 4000
+2023-07-13T09:48:24.793Z info: POST /users/createUser
+2023-07-13T09:48:25.958Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:48:52.724Z info: Successfully connected to port 4000
+2023-07-13T09:48:55.765Z info: POST /users/createUser
+2023-07-13T09:48:58.094Z error: User exists
+2023-07-13T09:48:58.097Z error: Error: user already exists
+2023-07-13T09:49:03.324Z info: POST /users/createUser
+2023-07-13T09:49:04.492Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:49:52.459Z info: POST /users/createUser
+2023-07-13T09:49:53.612Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T09:50:18.091Z info: Successfully connected to port 4000
+2023-07-13T09:51:24.938Z info: Successfully connected to port 4000
+2023-07-13T09:51:33.775Z info: Successfully connected to port 4000
+2023-07-13T09:51:35.579Z info: Successfully connected to port 4000
+2023-07-13T09:51:37.895Z info: Successfully connected to port 4000
+2023-07-13T09:51:48.012Z info: Successfully connected to port 4000
+2023-07-13T09:51:50.132Z info: Successfully connected to port 4000
+2023-07-13T09:51:52.327Z info: Successfully connected to port 4000
+2023-07-13T09:52:02.738Z info: Successfully connected to port 4000
+2023-07-13T09:52:15.958Z info: Successfully connected to port 4000
+2023-07-13T09:52:18.379Z info: Successfully connected to port 4000
+2023-07-13T09:52:19.567Z info: Successfully connected to port 4000
+2023-07-13T09:52:22.448Z info: Successfully connected to port 4000
+2023-07-13T10:13:55.553Z info: Successfully connected to port 4000
+2023-07-13T10:13:57.416Z info: Successfully connected to port 4000
+2023-07-13T10:14:07.144Z info: Successfully connected to port 4000
+2023-07-13T10:14:17.120Z info: Successfully connected to port 4000
+2023-07-13T10:16:45.049Z info: Successfully connected to port 4000
+2023-07-13T10:16:48.614Z info: Successfully connected to port 4000
+2023-07-13T10:16:55.279Z info: Successfully connected to port 4000
+2023-07-13T10:17:07.199Z info: Successfully connected to port 4000
+2023-07-13T10:17:12.378Z info: POST /users/createUser
+2023-07-13T10:17:13.143Z error: User exists
+2023-07-13T10:17:13.146Z error: Error: user already exists
+2023-07-13T10:17:19.770Z info: POST /users/createUser
+2023-07-13T10:17:21.022Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T10:18:01.212Z info: Successfully connected to port 4000
+2023-07-13T10:18:10.967Z info: POST /users/createUser
+2023-07-13T10:18:12.166Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T10:18:31.828Z info: Successfully connected to port 4000
+2023-07-13T10:18:38.337Z info: POST /users/createUser
+2023-07-13T10:18:39.506Z info: Successfully created user ID: placeholder id: 1
+2023-07-13T10:18:48.838Z info: POST /users/createUser
+2023-07-13T10:18:49.607Z error: User exists
+2023-07-13T10:18:49.609Z error: Error: user already exists
+2023-07-13T10:19:06.073Z info: Successfully connected to port 4000
+2023-07-13T10:30:26.945Z info: Successfully connected to port 4000
+2023-07-13T10:30:30.341Z info: Successfully connected to port 4000
+2023-07-13T11:21:32.704Z info: Successfully connected to port 4000
