@@ -1,7 +1,9 @@
 const { level } = require("winston");
 const logger = require("../logger/logger");
-const userSchema = require('../schema/userschema')
-const { db, client } = require('./db.controllers')
+const userSchema = require('../schema/userschema');
+const { db, client } = require('./db.controllers');
+const jwt = require('jsonwebtoken');
+require('dotenv').config();
 
 exports.validateUser = function (req, res, next) {
   const { error, value } = userSchema.validate(req.body);
@@ -54,9 +56,13 @@ exports.saveUser = async function (error, req, res, next) {
       id: userID+1,
     }
 
-    let res = await collection.insertOne(user)
-    .catch((error) => { return next(err)} );
-    return next();
+    let result = await collection.insertOne(user)
+    .catch((error) => { 
+      error.status = 409;
+      error.message = 'could not add user to database';
+      return next(error)} );
+
+    next();
   }
 
   error.message = "user already exists";
