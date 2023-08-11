@@ -163,3 +163,741 @@
 2023-07-16T10:13:24.079Z error: User exists
 2023-07-16T10:13:29.768Z error: Error: user already exists
 2023-07-16T10:22:25.578Z error: Error: "email" must be a valid email
+2023-07-17T04:51:18.957Z error: Error: user not found
+2023-07-17T04:59:59.353Z error: Error: user not found
+2023-07-17T06:44:35.805Z error: Error: User not found
+2023-07-17T06:45:36.966Z error: Error: Can not update, user not found
+2023-07-17T06:46:17.350Z error: Error: Can not update, user not found
+2023-07-17T06:48:46.888Z error: Error: Can not update, user not found
+2023-07-17T06:49:55.558Z error: Error: Can not update, user not found
+2023-07-17T06:53:59.411Z error: Error: Server Error
+2023-07-17T06:54:35.863Z error: Error: Server Error MongoInvalidArgumentError: Update document requires atomic operators
+2023-07-17T07:27:11.082Z error: Error: Server Error MongoInvalidArgumentError: Update document requires atomic operators
+2023-07-17T07:27:25.427Z error: Error: Can not update, user not found
+2023-07-17T07:28:33.644Z error: Error: Can not update, user not found
+2023-07-17T07:29:05.560Z error: Error: Cannot update, user not found
+2023-07-17T07:30:22.909Z error: Error: Can not update, user not found
+2023-07-17T07:55:11.466Z error: Error: Cannot update document for new@runninghill.co.za
+2023-07-17T07:56:07.491Z error: Error: new@runninghill.co.za not found
+2023-07-17T08:01:54.790Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-17T08:02:07.087Z error: Error: "password" should contain at least 2 numeric character
+2023-07-17T08:46:35.326Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-17T12:09:02.903Z error: User exists
+2023-07-17T12:09:02.910Z error: Error: user already exists
+2023-07-17T12:58:52.396Z error: User exists
+2023-07-17T12:58:52.412Z error: Error: user already exists
+2023-07-17T13:56:49.632Z error: Error: Cannot update document for Email@runninghill.co.za
+2023-07-17T13:58:10.733Z error: Error: Cannot update document for Email@runninghill.co.za
+2023-07-17T14:19:36.282Z error: Error: "username" is required
+2023-07-19T07:56:09.951Z error: Error: "email" is required
+2023-07-19T08:15:14.176Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-19T08:15:57.638Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-19T09:12:23.880Z error: Error: Invalid token
+2023-07-19T09:13:50.594Z error: Error: Invalid token
+2023-07-19T09:14:06.845Z error: Error: Invalid token
+2023-07-19T09:14:57.455Z error: Error: Invalid token
+2023-07-19T09:15:24.350Z error: Error: Invalid token
+2023-07-19T09:16:07.239Z error: Error: Invalid token
+2023-07-24T04:23:27.082Z error: ReferenceError: collection is not defined
+2023-07-24T04:23:27.086Z error: Error: user already exists
+2023-07-24T04:23:37.445Z error: ReferenceError: collection is not defined
+2023-07-24T04:23:37.447Z error: Error: user already exists
+2023-07-24T04:23:42.925Z error: ReferenceError: collection is not defined
+2023-07-24T04:23:42.927Z error: Error: user already exists
+2023-07-24T04:24:00.044Z error: ReferenceError: collection is not defined
+2023-07-24T04:24:00.045Z error: Error: user already exists
+2023-07-24T04:27:29.182Z error: Error: user not found
+2023-07-24T04:35:45.700Z error: ReferenceError: logger is not defined
+2023-07-24T04:35:45.706Z error: Error: user already exists
+2023-07-24T04:36:11.314Z error: ReferenceError: logger is not defined
+2023-07-24T04:36:11.316Z error: Error: user already exists
+2023-07-24T04:36:17.018Z error: ReferenceError: logger is not defined
+2023-07-24T04:36:17.019Z error: Error: user already exists
+2023-07-24T04:36:19.497Z error: ReferenceError: logger is not defined
+2023-07-24T04:36:19.498Z error: Error: user already exists
+2023-07-24T04:36:48.006Z error: ReferenceError: logger is not defined
+2023-07-24T04:36:48.013Z error: Error: user already exists
+2023-07-24T04:37:15.337Z error: ReferenceError: logger is not defined
+2023-07-24T04:37:15.342Z error: Error: user already exists
+2023-07-24T04:38:44.120Z error: User exists
+2023-07-24T04:38:44.121Z error: Error: user already exists
+2023-07-24T04:38:46.854Z error: User exists
+2023-07-24T04:38:46.855Z error: Error: user already exists
+2023-07-24T04:38:52.893Z error: User exists
+2023-07-24T04:38:52.894Z error: Error: user already exists
+2023-07-24T04:38:55.137Z error: User exists
+2023-07-24T04:38:55.138Z error: Error: user already exists
+2023-07-24T04:39:06.467Z error: User exists
+2023-07-24T04:39:06.469Z error: Error: user already exists
+2023-07-24T04:54:44.499Z error: Error: could not add user to database:TypeError: userDB.insertOne is not a function
+2023-07-24T04:55:22.593Z error: Error: could not add user to database:TypeError: userDB.save is not a function
+2023-07-24T05:01:36.820Z error: User exists
+2023-07-24T05:01:36.822Z error: Error: user already exists
+2023-07-24T05:24:53.865Z error: Error: user not found
+2023-07-24T05:25:34.180Z error: Error: user not found
+2023-07-24T05:26:12.894Z error: Error: user not found
+2023-07-24T05:27:59.366Z error: Error: User not found
+2023-07-24T05:28:37.567Z error: Error: User not found
+2023-07-24T05:30:52.656Z error: Error: User not found
+2023-07-24T08:23:23.015Z error: User exists
+2023-07-24T08:23:23.016Z error: Error: user already exists
+2023-07-24T08:25:19.533Z error: Error: "email" is required
+2023-07-24T08:26:16.911Z error: User exists
+2023-07-24T08:26:16.913Z error: Error: user already exists
+2023-07-24T08:26:56.846Z error: User exists
+2023-07-24T08:26:56.848Z error: Error: user already exists
+2023-07-24T08:45:11.151Z error: Error: "password" should contain at least 2 lowercase character
+2023-07-24T08:45:28.362Z error: User exists
+2023-07-24T08:45:28.364Z error: Error: user already exists
+2023-07-24T08:47:59.175Z error: Error: "email" is required
+2023-07-24T08:48:16.539Z error: Error: "id" is not allowed
+2023-07-24T08:48:33.182Z error: User exists
+2023-07-24T08:48:33.183Z error: Error: user already exists
+2023-07-24T08:49:15.559Z error: User exists
+2023-07-24T08:49:15.561Z error: Error: user already exists
+2023-07-24T08:52:58.172Z error: User exists
+2023-07-24T08:52:58.174Z error: Error: user already exists
+2023-07-24T08:57:08.080Z error: User exists
+2023-07-24T08:57:08.084Z error: Error: user already exists
+2023-07-24T08:57:35.863Z error: User exists
+2023-07-24T08:57:35.865Z error: Error: user already exists
+2023-07-24T08:57:39.453Z error: User exists
+2023-07-24T08:57:39.454Z error: Error: user already exists
+2023-07-24T08:59:03.438Z error: User exists
+2023-07-24T08:59:03.440Z error: Error: user already exists
+2023-07-24T09:02:14.970Z error: User exists
+2023-07-24T09:02:14.979Z error: Error: user already exists
+2023-07-24T09:03:34.048Z error: User exists
+2023-07-24T09:03:34.057Z error: Error: user already exists
+2023-07-24T09:09:33.593Z error: User exists
+2023-07-24T09:09:33.595Z error: Error: user already exists
+2023-07-24T09:15:24.844Z error: User exists
+2023-07-24T09:15:24.850Z error: Error: user already exists
+2023-07-24T10:50:53.868Z error: User exists
+2023-07-24T10:50:53.876Z error: Error: user already exists
+2023-07-24T11:11:30.179Z error: ReferenceError: userRepository is not defined
+2023-07-24T11:12:11.650Z error: ReferenceError: userRepository is not defined
+2023-07-24T11:14:53.993Z error: ReferenceError: findUser is not defined
+2023-07-24T11:15:30.460Z error: TypeError: this.findUser is not a function
+2023-07-24T11:15:39.070Z error: TypeError: this.findUser is not a function
+2023-07-24T11:17:59.591Z error: TypeError: this.findUser is not a function
+2023-07-24T11:19:00.077Z error: User exists
+2023-07-24T11:19:36.554Z error: User exists
+2023-07-24T11:21:05.357Z error: User exists
+2023-07-24T11:21:14.182Z error: User exists
+2023-07-24T11:23:12.059Z error: User exists
+2023-07-24T11:23:21.224Z error: User exists
+2023-07-24T11:24:18.217Z error: User exists
+2023-07-24T11:26:23.613Z error: User exists
+2023-07-24T11:44:33.399Z error: User exists
+2023-07-24T11:55:48.898Z error: User exists
+2023-07-24T12:08:06.504Z error: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+2023-07-24T12:15:39.813Z error: ReferenceError: findUser is not defined
+2023-07-24T12:15:56.485Z error: TypeError: this.findUser is not a function
+2023-07-24T13:12:40.910Z error: User exists
+2023-07-24T13:12:40.912Z error: Error: user already exists
+2023-07-24T13:12:49.607Z error: User exists
+2023-07-24T13:12:49.608Z error: Error: user already exists
+2023-07-24T13:13:21.712Z error: User exists
+2023-07-24T13:13:21.714Z error: Error: user already exists
+2023-07-24T13:13:38.448Z error: User exists
+2023-07-24T13:13:38.449Z error: Error: user already exists
+2023-07-24T13:13:45.127Z error: User exists
+2023-07-24T13:13:45.128Z error: Error: user already exists
+2023-07-24T17:03:28.125Z error: User exists
+2023-07-24T17:03:28.130Z error: Error: user already exists
+2023-07-24T17:12:23.775Z error: Error: Cannot update document for 2@runninghill.co.za
+2023-07-24T17:13:28.258Z error: Error: Cannot update document for 2@runninghill.co.za
+2023-07-24T19:39:12.949Z error: Error: Cannot update document for 2@runninghill.co.za
+2023-07-24T19:42:52.707Z error: Error: Cannot update document for 2@runninghill.co.za
+2023-07-24T19:44:11.296Z error: Error: Cannot update document for 2@runninghill.co.za
+2023-07-24T19:45:53.847Z error: Error: Cannot update document for 2@runninghill.co.za
+2023-07-24T20:04:40.975Z error: Error: Cannot update document for 2@runninghill.co.za
+2023-07-24T20:05:20.199Z error: Error: Cannot update document for 2@runninghill.co.za
+2023-07-24T20:13:08.296Z error: Error: Cannot read properties of undefined (reading 'headers')
+2023-07-24T20:19:05.546Z error: Error: Cannot read properties of undefined (reading 'headers')
+2023-07-24T20:19:36.245Z error: Error: Cannot read properties of undefined (reading 'body')
+2023-07-24T20:20:19.659Z error: Error: Cannot read properties of undefined (reading 'body')
+2023-07-24T20:20:27.142Z error: Error: Cannot read properties of undefined (reading 'body')
+2023-07-24T20:20:49.249Z error: Error: Cannot read properties of undefined (reading 'body')
+2023-07-24T20:21:05.824Z error: Error: Cannot read properties of undefined (reading 'headers')
+2023-07-24T20:21:24.124Z error: Error: Cannot read properties of undefined (reading 'headers')
+2023-07-24T20:21:35.243Z error: Error: Cannot read properties of undefined (reading 'headers')
+2023-07-24T20:21:42.595Z error: Error: Cannot read properties of undefined (reading 'headers')
+2023-07-24T20:21:57.932Z error: Error: Cannot read properties of undefined (reading 'headers')
+2023-07-24T20:24:51.143Z error: User exists
+2023-07-24T20:24:51.145Z error: Error: user already exists
+2023-07-24T20:26:40.909Z error: User exists
+2023-07-24T20:26:40.917Z error: Error: user already exists
+2023-07-25T04:09:29.558Z error: User exists
+2023-07-25T04:09:29.567Z error: Error: user already exists
+2023-07-25T04:09:46.846Z error: User exists
+2023-07-25T04:09:46.850Z error: Error: user already exists
+2023-07-25T04:30:17.615Z error: User exists
+2023-07-25T04:30:17.622Z error: Error: user already exists
+2023-07-25T04:30:46.286Z error: User exists
+2023-07-25T04:30:46.292Z error: Error: user already exists
+2023-07-25T04:32:06.845Z error: ReferenceError: dbHelpers is not defined
+2023-07-25T04:32:06.851Z error: Error: user already exists
+2023-07-25T04:32:13.308Z error: ReferenceError: dbHelpers is not defined
+2023-07-25T04:32:13.311Z error: Error: user already exists
+2023-07-25T04:32:15.740Z error: ReferenceError: dbHelpers is not defined
+2023-07-25T04:32:15.747Z error: Error: user already exists
+2023-07-25T04:32:21.352Z error: ReferenceError: dbHelpers is not defined
+2023-07-25T04:32:21.355Z error: Error: user already exists
+2023-07-25T04:33:36.789Z error: ReferenceError: dbHelpers is not defined
+2023-07-25T04:33:36.795Z error: Error: user already exists
+2023-07-25T04:33:58.970Z error: ReferenceError: dbHelpers is not defined
+2023-07-25T04:33:58.976Z error: Error: user already exists
+2023-07-25T04:36:29.534Z error: User exists
+2023-07-25T04:36:29.537Z error: Error: user already exists
+2023-07-25T04:47:50.394Z error: User exists
+2023-07-25T04:47:54.587Z error: User exists
+2023-07-25T04:48:48.966Z error: User exists
+2023-07-25T04:49:17.544Z error: User exists
+2023-07-25T04:50:27.010Z error: User exists
+2023-07-25T04:50:45.559Z error: User exists
+2023-07-25T04:52:35.944Z error: User exists
+2023-07-25T04:52:35.947Z error: Error: user already exists
+2023-07-25T04:52:42.757Z error: User exists
+2023-07-25T04:52:42.759Z error: Error: user already exists
+2023-07-25T04:53:57.058Z error: User exists
+2023-07-25T04:53:57.059Z error: Error: user already exists
+2023-07-25T05:02:00.775Z error: User exists
+2023-07-25T05:02:00.778Z error: Error: user already exists
+2023-07-25T05:03:02.402Z error: User exists
+2023-07-25T05:03:02.405Z error: Error: user already exists
+2023-07-25T05:04:20.216Z error: User exists
+2023-07-25T05:04:20.219Z error: Error: user already exists
+2023-07-25T05:22:19.068Z error: User exists
+2023-07-25T05:22:19.072Z error: Error: user already exists
+2023-07-25T05:51:08.609Z error: Error: "username" is required
+2023-07-25T05:51:19.443Z error: Error: "username" is required
+2023-07-25T05:51:32.488Z error: Error: "username" is required
+2023-07-25T06:50:06.698Z error: User exists
+2023-07-25T06:52:06.347Z error: Error: "username" is required
+2023-07-25T06:52:11.234Z error: User exists
+2023-07-25T06:59:57.410Z error: User exists
+2023-07-25T07:00:29.538Z error: User exists
+2023-07-25T07:00:29.540Z error: Error: user already exists
+2023-07-25T08:03:40.166Z error: Error: "username" is required
+2023-07-25T08:35:03.211Z error: Error: User not found in DB
+2023-07-25T09:08:31.950Z error: User exists
+2023-07-25T09:11:32.418Z error: User exists
+2023-07-25T09:13:10.083Z error: User exists
+2023-07-25T09:13:54.109Z error: User exists
+2023-07-25T09:38:44.732Z error: Error: User not found in DB
+2023-07-25T09:38:58.042Z error: Error: User not found in DB
+2023-07-25T09:43:24.907Z error: User exists
+2023-07-25T10:16:08.630Z error: Error: Cannot update document for undefined
+2023-07-25T10:16:37.202Z error: Error: Cannot update document for [object Object]
+2023-07-25T10:17:34.850Z error: Error: Cannot update document for 00@example.com
+2023-07-25T10:19:32.207Z error: Error: Cannot update document for 00@example.com
+2023-07-25T10:31:31.783Z error: Error: Cannot read properties of undefined (reading 'email')
+2023-07-25T10:32:16.528Z error: Error: Cannot read properties of undefined (reading 'email')
+2023-07-25T10:33:16.171Z error: Error: Cannot read properties of undefined (reading 'email')
+2023-07-25T10:34:09.667Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-25T11:17:05.055Z error: User exists
+2023-07-25T11:17:05.059Z error: Error: user already exists
+2023-07-25T11:19:36.810Z error: User exists
+2023-07-25T11:19:36.814Z error: Error: user already exists
+2023-07-25T11:23:41.151Z error: User exists
+2023-07-25T11:23:41.155Z error: Error: user already exists
+2023-07-25T11:28:46.349Z error: User exists
+2023-07-25T11:29:03.851Z error: User exists
+2023-07-25T11:29:03.854Z error: Error: user already exists
+2023-07-25T11:29:34.065Z error: User exists
+2023-07-25T11:29:34.067Z error: Error: user already exists
+2023-07-25T11:42:04.557Z error: Error: Error: User not found in DB
+2023-07-25T11:49:19.951Z error: Error: 00@example.com not found
+2023-07-26T05:17:45.218Z error: User exists
+2023-07-26T05:18:16.857Z error: User exists
+2023-07-26T05:18:41.958Z error: User exists
+2023-07-26T05:19:41.491Z error: User exists
+2023-07-26T05:34:29.687Z error: User exists
+2023-07-26T05:34:45.875Z error: User exists
+2023-07-26T05:35:03.316Z error: User exists
+2023-07-26T05:37:38.512Z error: User exists
+2023-07-26T05:38:36.504Z error: User exists
+2023-07-26T05:38:58.520Z error: User exists
+2023-07-26T05:45:59.988Z error: User exists
+2023-07-26T05:45:59.992Z error: User exists
+2023-07-26T05:47:22.787Z error: User exists
+2023-07-26T05:47:22.792Z error: User exists
+2023-07-26T05:47:56.859Z error: User exists
+2023-07-26T05:47:56.866Z error: User exists
+2023-07-26T05:48:44.889Z error: User exists
+2023-07-26T05:48:44.894Z error: User exists
+2023-07-26T05:49:21.348Z error: User exists
+2023-07-26T05:49:21.354Z error: User exists
+2023-07-26T05:50:00.543Z error: User exists
+2023-07-26T05:50:00.549Z error: User exists
+2023-07-26T05:56:31.354Z error: User exists
+2023-07-26T06:03:00.855Z error: Error: Cannot update document for 1@example.com
+2023-07-26T06:04:23.340Z error: User exists
+2023-07-26T06:04:49.420Z error: User exists
+2023-07-26T06:05:28.382Z error: User exists
+2023-07-26T06:06:27.165Z error: User exists
+2023-07-26T06:08:14.518Z error: User exists
+2023-07-26T06:09:10.260Z error: User exists
+2023-07-26T06:10:36.883Z error: User exists
+2023-07-26T06:35:11.893Z error: User exists
+2023-07-26T07:15:48.162Z error: Error: 1@example.com not found
+2023-07-26T07:16:53.970Z error: Error: Cannot update document for 1@example.com
+2023-07-26T07:17:04.604Z error: Error: Cannot update document for 1@example.com
+2023-07-26T07:25:10.503Z error: User exists
+2023-07-26T07:33:17.429Z error: User exists
+2023-07-26T07:35:20.506Z error: User exists
+2023-07-26T07:35:59.816Z error: User exists
+2023-07-26T07:36:36.228Z error: User exists
+2023-07-26T07:37:43.328Z error: User exists
+2023-07-26T07:42:42.500Z error: User exists
+2023-07-26T07:43:02.532Z error: User exists
+2023-07-26T07:45:38.469Z error: User exists
+2023-07-26T07:46:39.429Z error: Error: Cannot update document for 1@example.com
+2023-07-26T07:46:44.270Z error: Error: Cannot update document for 1@example.com
+2023-07-26T07:47:18.552Z error: Error: Cannot update document for 1@example.com
+2023-07-26T07:51:01.421Z error: User exists
+2023-07-26T07:51:33.171Z error: User exists
+2023-07-26T07:51:46.299Z error: User exists
+2023-07-26T07:53:20.964Z error: User exists
+2023-07-26T09:26:01.429Z error: User exists
+2023-07-26T09:26:25.218Z error: User exists
+2023-07-26T09:27:03.192Z error: User exists
+2023-07-26T09:27:39.748Z error: User exists
+2023-07-26T09:47:08.512Z error: User exists
+2023-07-26T09:47:44.189Z error: User exists
+2023-07-26T09:49:09.354Z error: User exists
+2023-07-26T09:49:38.147Z error: User exists
+2023-07-26T09:50:06.526Z error: User exists
+2023-07-26T09:50:42.559Z error: User exists
+2023-07-26T09:51:07.633Z error: User exists
+2023-07-26T10:06:42.275Z error: User exists
+2023-07-26T10:07:02.518Z error: User exists
+2023-07-26T10:07:22.209Z error: User exists
+2023-07-26T10:08:31.964Z error: User exists
+2023-07-26T10:08:57.705Z error: User exists
+2023-07-26T10:11:26.178Z error: User exists
+2023-07-26T10:11:58.463Z error: User exists
+2023-07-26T10:12:05.621Z error: Error: Error: User not found in DB
+2023-07-26T10:17:27.347Z error: User exists
+2023-07-26T10:17:57.385Z error: User exists
+2023-07-26T10:24:26.205Z error: User exists
+2023-07-26T10:28:31.061Z error: User exists
+2023-07-26T10:28:53.172Z error: User exists
+2023-07-26T10:32:47.997Z error: User exists
+2023-07-26T12:06:34.736Z error: User exists
+2023-07-26T12:07:15.884Z error: User exists
+2023-07-26T12:08:29.245Z error: User exists
+2023-07-26T12:08:35.865Z error: Error: Error: User not found in DB
+2023-07-26T12:13:45.138Z error: User exists
+2023-07-26T12:14:58.783Z error: User exists
+2023-07-26T12:19:21.534Z error: User exists
+2023-07-26T12:21:43.221Z error: User exists
+2023-07-26T12:29:05.995Z error: User exists
+2023-07-26T12:29:37.618Z error: User exists
+2023-07-26T12:32:03.626Z error: User exists
+2023-07-26T12:32:31.733Z error: User exists
+2023-07-26T12:32:47.408Z error: User exists
+2023-07-26T12:37:16.443Z error: User exists
+2023-07-26T12:40:19.109Z error: User exists
+2023-07-26T12:40:25.866Z error: Error: Error: User not found in DB
+2023-07-26T12:45:37.372Z error: User exists
+2023-07-26T12:45:43.867Z error: Error: Error: User not found in DB
+2023-07-26T15:21:00.139Z error: No city provided
+2023-07-26T15:44:44.724Z error: Error fetching user data
+2023-07-26T15:45:43.620Z error: Error fetching user data
+2023-07-26T15:46:16.170Z error: Error fetching user data
+2023-07-26T15:47:19.871Z error: Error fetching user data
+2023-07-27T04:12:36.447Z error: User exists
+2023-07-27T04:12:36.451Z error: Error: user already exists
+2023-07-27T04:12:46.608Z error: User exists
+2023-07-27T04:12:46.610Z error: Error: user already exists
+2023-07-27T04:12:55.518Z error: Error: Cannot update document for 1@example.com
+2023-07-27T04:14:00.468Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T04:15:46.730Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T04:16:37.424Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T04:35:20.862Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T04:37:45.660Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T04:38:10.645Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T04:39:31.205Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T04:42:07.596Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T04:42:25.618Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T05:17:49.902Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T05:19:47.504Z error: User exists
+2023-07-27T05:19:54.020Z error: Error: Error: User not found in DB
+2023-07-27T05:20:37.312Z error: User exists
+2023-07-27T05:20:43.869Z error: Error: Error: User not found in DB
+2023-07-27T05:21:14.545Z error: User exists
+2023-07-27T05:21:20.830Z error: Error: Error: User not found in DB
+2023-07-27T05:22:44.189Z error: User exists
+2023-07-27T05:22:50.997Z error: Error: Error: User not found in DB
+2023-07-27T05:24:41.999Z error: User exists
+2023-07-27T05:24:48.658Z error: Error: Error: User not found in DB
+2023-07-27T05:28:13.992Z error: User exists
+2023-07-27T05:28:20.343Z error: Error: Error: User not found in DB
+2023-07-27T05:30:08.683Z error: User exists
+2023-07-27T05:30:15.348Z error: Error: Error: User not found in DB
+2023-07-27T05:30:43.853Z error: User exists
+2023-07-27T05:30:50.037Z error: Error: Error: User not found in DB
+2023-07-27T05:31:22.465Z error: User exists
+2023-07-27T05:31:30.894Z error: Error: Error: User not found in DB
+2023-07-27T05:33:26.147Z error: User exists
+2023-07-27T05:33:32.664Z error: Error: Error: User not found in DB
+2023-07-27T05:36:14.009Z error: User exists
+2023-07-27T05:36:20.459Z error: Error: Error: User not found in DB
+2023-07-27T05:36:34.457Z error: User exists
+2023-07-27T05:36:40.848Z error: Error: Error: User not found in DB
+2023-07-27T05:36:51.894Z error: User exists
+2023-07-27T05:36:58.126Z error: Error: Error: User not found in DB
+2023-07-27T05:37:23.251Z error: User exists
+2023-07-27T05:37:29.604Z error: Error: Error: User not found in DB
+2023-07-27T05:40:35.696Z error: User exists
+2023-07-27T05:40:42.295Z error: Error: Error: User not found in DB
+2023-07-27T05:41:24.757Z error: User exists
+2023-07-27T05:41:30.981Z error: Error: Error: User not found in DB
+2023-07-27T05:41:41.768Z error: User exists
+2023-07-27T05:41:48.794Z error: Error: Error: User not found in DB
+2023-07-27T05:42:45.352Z error: User exists
+2023-07-27T05:42:51.655Z error: Error: Error: User not found in DB
+2023-07-27T05:43:13.085Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T05:46:02.481Z error: User exists
+2023-07-27T05:46:08.718Z error: Error: Error: User not found in DB
+2023-07-27T05:46:40.483Z error: User exists
+2023-07-27T05:46:47.045Z error: Error: Error: User not found in DB
+2023-07-27T05:48:08.207Z error: User exists
+2023-07-27T05:48:14.532Z error: Error: Error: User not found in DB
+2023-07-27T05:48:51.258Z error: User exists
+2023-07-27T05:48:57.525Z error: Error: Error: User not found in DB
+2023-07-27T05:49:12.430Z error: User exists
+2023-07-27T05:49:19.056Z error: Error: Error: User not found in DB
+2023-07-27T05:50:31.466Z error: User exists
+2023-07-27T05:50:37.902Z error: Error: Error: User not found in DB
+2023-07-27T06:01:58.360Z error: User exists
+2023-07-27T06:02:05.097Z error: Error: Error: User not found in DB
+2023-07-27T06:12:53.422Z error: Error: Error: User not found in DB
+2023-07-27T06:17:14.937Z error: User exists
+2023-07-27T06:17:21.306Z error: Error: Error: User not found in DB
+2023-07-27T06:17:34.874Z error: User exists
+2023-07-27T06:17:41.117Z error: Error: Error: User not found in DB
+2023-07-27T06:18:35.147Z error: Error: Error: User not found in DB
+2023-07-27T06:20:06.210Z error: User exists
+2023-07-27T06:20:12.624Z error: Error: Error: User not found in DB
+2023-07-27T06:20:47.800Z error: User exists
+2023-07-27T06:20:54.149Z error: Error: Error: User not found in DB
+2023-07-27T07:13:24.897Z error: User exists
+2023-07-27T07:14:01.289Z error: User exists
+2023-07-27T07:14:11.945Z error: User exists
+2023-07-27T07:18:02.409Z error: User exists
+2023-07-27T07:18:33.044Z error: User exists
+2023-07-27T07:18:40.390Z error: Error: Error: User not found in DB
+2023-07-27T09:28:02.715Z error: User exists
+2023-07-27T09:28:02.719Z error: Error: user already exists
+2023-07-27T09:28:33.943Z error: Error: "email" must be a valid email
+2023-07-27T09:28:40.841Z error: Error: "email" is required
+2023-07-27T09:28:50.222Z error: User exists
+2023-07-27T09:28:50.225Z error: Error: user already exists
+2023-07-27T09:30:03.885Z error: Error: Error: User not found in DB
+2023-07-27T09:31:04.202Z error: Error: No documents matched the query. Deleted 0 documents
+2023-07-27T11:57:31.801Z error: User exists
+2023-07-27T14:10:11.782Z error: Error: Error: User not found in DB
+2023-07-27T14:10:34.427Z error: Error: Error cant login
+2023-07-27T14:10:42.362Z error: Error: Error: User not found in DB
+2023-07-27T14:10:45.187Z error: Error: Error cant login
+2023-07-27T14:23:19.617Z error: User exists
+2023-07-27T14:23:19.621Z error: Error: user already exists
+2023-07-27T14:23:41.652Z error: User exists
+2023-07-27T14:23:41.655Z error: Error: user already exists
+2023-07-27T14:25:42.632Z error: Error: Error cant login
+2023-07-27T14:26:04.884Z error: Error: Error cant login
+2023-07-27T14:28:55.675Z error: Error: Error cant login
+2023-07-27T14:30:35.746Z error: Error: Error cant login
+2023-07-27T14:31:32.352Z error: User exists
+2023-07-27T14:31:38.591Z error: Error: Error: User not found in DB
+2023-07-28T05:11:50.288Z error: User exists
+2023-07-28T05:11:57.744Z error: Error: Error: User not found in DB
+2023-07-28T05:12:40.249Z error: User exists
+2023-07-28T05:12:46.793Z error: Error: Error: User not found in DB
+2023-07-28T05:13:12.605Z error: User exists
+2023-07-28T05:13:19.590Z error: Error: Error: User not found in DB
+2023-07-28T05:24:50.050Z error: User exists
+2023-07-28T05:24:56.459Z error: Error: Error: User not found in DB
+2023-07-28T05:29:56.481Z error: User exists
+2023-07-28T05:30:03.040Z error: Error: Error: User not found in DB
+2023-07-28T05:30:31.611Z error: User exists
+2023-07-28T05:30:37.540Z error: Error: Error: User not found in DB
+2023-07-28T05:31:04.032Z error: User exists
+2023-07-28T05:31:10.222Z error: Error: Error: User not found in DB
+2023-07-28T05:31:13.762Z error: User exists
+2023-07-28T05:31:20.159Z error: Error: Error: User not found in DB
+2023-07-28T05:31:34.583Z error: User exists
+2023-07-28T05:31:40.849Z error: Error: Error: User not found in DB
+2023-07-28T05:31:53.848Z error: User exists
+2023-07-28T05:32:00.028Z error: Error: Error: User not found in DB
+2023-07-28T05:43:44.330Z error: User exists
+2023-07-28T05:43:50.895Z error: Error: Error: User not found in DB
+2023-07-28T05:44:05.054Z error: User exists
+2023-07-28T05:44:05.445Z error: Error: "username" is required
+2023-07-28T05:44:11.458Z error: Error: Error: User not found in DB
+2023-07-28T05:44:40.110Z error: User exists
+2023-07-28T05:44:40.538Z error: Error: "username" is required
+2023-07-28T05:44:46.518Z error: Error: Error: User not found in DB
+2023-07-28T05:45:23.415Z error: User exists
+2023-07-28T05:45:23.833Z error: Error: "username" is required
+2023-07-28T05:45:30.585Z error: Error: Error: User not found in DB
+2023-07-28T05:46:17.136Z error: User exists
+2023-07-28T05:46:17.653Z error: Error: "username" is required
+2023-07-28T05:46:23.608Z error: Error: Error: User not found in DB
+2023-07-28T05:46:38.243Z error: User exists
+2023-07-28T05:46:38.641Z error: Error: "username" is required
+2023-07-28T05:46:45.003Z error: Error: Error: User not found in DB
+2023-07-28T05:47:14.183Z error: User exists
+2023-07-28T05:47:14.580Z error: Error: "username" is required
+2023-07-28T05:47:14.587Z error: Error: "password" is required
+2023-07-28T05:47:14.588Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T05:47:14.597Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T05:47:14.598Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T05:47:20.524Z error: Error: Error: User not found in DB
+2023-07-28T05:47:59.168Z error: User exists
+2023-07-28T05:47:59.459Z error: Error: "username" is required
+2023-07-28T05:47:59.466Z error: Error: "password" is required
+2023-07-28T05:47:59.467Z error: Error: "email" is required
+2023-07-28T05:47:59.468Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T05:47:59.477Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T05:48:05.527Z error: Error: Error: User not found in DB
+2023-07-28T05:48:36.020Z error: User exists
+2023-07-28T05:48:36.411Z error: Error: "username" is required
+2023-07-28T05:48:36.418Z error: Error: "password" is required
+2023-07-28T05:48:36.419Z error: Error: "email" is required
+2023-07-28T05:48:36.429Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T05:48:42.326Z error: Error: Error: User not found in DB
+2023-07-28T05:49:33.026Z error: User exists
+2023-07-28T05:49:33.429Z error: Error: "username" is required
+2023-07-28T05:49:33.436Z error: Error: "password" is required
+2023-07-28T05:49:33.438Z error: Error: "email" is required
+2023-07-28T05:49:33.446Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T05:49:40.107Z error: Error: Error: User not found in DB
+2023-07-28T05:59:32.070Z error: User exists
+2023-07-28T05:59:32.470Z error: Error: "username" is required
+2023-07-28T05:59:32.477Z error: Error: "password" is required
+2023-07-28T05:59:32.478Z error: Error: "email" is required
+2023-07-28T05:59:32.488Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T05:59:38.864Z error: Error: Error: User not found in DB
+2023-07-28T06:00:19.634Z error: User exists
+2023-07-28T06:00:20.051Z error: Error: "username" is required
+2023-07-28T06:00:20.058Z error: Error: "password" is required
+2023-07-28T06:00:20.059Z error: Error: "email" is required
+2023-07-28T06:00:20.068Z error: Error: "password" should contain at least 2 numeric character
+2023-07-28T06:00:25.995Z error: Error: Error: User not found in DB
+2023-07-28T06:00:34.307Z error: User exists
+2023-07-28T06:00:34.603Z error: Error: "username" is required
+2023-07-28T06:00:34.612Z error: Error: "password" is required
+2023-07-28T06:00:34.616Z error: Error: "email" is required
+2023-07-28T06:00:41.112Z error: Error: Error: User not found in DB
+2023-07-28T06:03:25.954Z error: User exists
+2023-07-28T06:03:26.353Z error: Error: "username" is required
+2023-07-28T06:03:26.359Z error: Error: "password" is required
+2023-07-28T06:03:26.362Z error: Error: "email" is required
+2023-07-28T06:03:32.540Z error: Error: Error: User not found in DB
+2023-07-28T06:04:25.713Z error: User exists
+2023-07-28T06:04:26.140Z error: Error: "username" is required
+2023-07-28T06:04:26.148Z error: Error: "password" is required
+2023-07-28T06:04:26.151Z error: Error: "email" is required
+2023-07-28T06:04:26.155Z error: Error: res.status(...).send is not a function
+2023-07-28T06:04:26.160Z error: Error: undefined
+2023-07-28T06:04:32.422Z error: Error: Error: User not found in DB
+2023-07-28T06:05:10.816Z error: User exists
+2023-07-28T06:05:11.169Z error: Error: "username" is required
+2023-07-28T06:05:11.176Z error: Error: "password" is required
+2023-07-28T06:05:11.177Z error: Error: "email" is required
+2023-07-28T06:05:11.181Z error: Error: res.status(...).send is not a function
+2023-07-28T06:05:11.188Z error: Error: undefined
+2023-07-28T06:05:17.205Z error: Error: Error: User not found in DB
+2023-07-28T06:07:28.979Z error: User exists
+2023-07-28T06:07:35.836Z error: Error: Error: User not found in DB
+2023-07-28T06:07:47.791Z error: User exists
+2023-07-28T06:07:48.218Z error: Error: "username" is required
+2023-07-28T06:07:48.227Z error: Error: "password" is required
+2023-07-28T06:07:48.230Z error: Error: "email" is required
+2023-07-28T06:07:48.233Z error: Error: res.status(...).send is not a function
+2023-07-28T06:07:48.240Z error: Error: undefined
+2023-07-28T06:07:54.314Z error: Error: Error: User not found in DB
+2023-07-28T06:08:03.792Z error: User exists
+2023-07-28T06:08:04.201Z error: Error: "username" is required
+2023-07-28T06:08:04.209Z error: Error: "password" is required
+2023-07-28T06:08:04.212Z error: Error: "email" is required
+2023-07-28T06:08:04.215Z error: Error: res.status(...).send is not a function
+2023-07-28T06:08:04.225Z error: Error: undefined
+2023-07-28T06:08:10.188Z error: Error: Error: User not found in DB
+2023-07-28T06:08:42.989Z error: User exists
+2023-07-28T06:08:43.381Z error: Error: "username" is required
+2023-07-28T06:08:43.387Z error: Error: "password" is required
+2023-07-28T06:08:43.388Z error: Error: "email" is required
+2023-07-28T06:08:43.399Z error: Error: undefined
+2023-07-28T06:08:49.505Z error: Error: Error: User not found in DB
+2023-07-28T06:10:40.349Z error: User exists
+2023-07-28T06:10:40.781Z error: Error: "username" is required
+2023-07-28T06:10:40.788Z error: Error: "password" is required
+2023-07-28T06:10:40.790Z error: Error: "email" is required
+2023-07-28T06:10:40.798Z error: Error: undefined
+2023-07-28T06:10:47.089Z error: Error: Error: User not found in DB
+2023-07-28T06:10:54.053Z error: User exists
+2023-07-28T06:10:54.524Z error: Error: "username" is required
+2023-07-28T06:10:54.532Z error: Error: "password" is required
+2023-07-28T06:10:54.534Z error: Error: "email" is required
+2023-07-28T06:10:54.546Z error: Error: undefined
+2023-07-28T06:11:00.498Z error: Error: Error: User not found in DB
+2023-07-28T06:11:10.116Z error: User exists
+2023-07-28T06:11:10.484Z error: Error: "username" is required
+2023-07-28T06:11:10.494Z error: Error: "password" is required
+2023-07-28T06:11:10.497Z error: Error: "email" is required
+2023-07-28T06:11:10.504Z error: Error: undefined
+2023-07-28T06:11:16.481Z error: Error: Error: User not found in DB
+2023-07-28T06:34:12.964Z error: User exists
+2023-07-28T06:34:13.302Z error: Error: "username" is required
+2023-07-28T06:34:13.313Z error: Error: "password" is required
+2023-07-28T06:34:13.315Z error: Error: "email" is required
+2023-07-28T06:34:13.318Z error: Error: undefined
+2023-07-28T06:34:19.933Z error: Error: Error: User not found in DB
+2023-07-28T06:36:22.446Z error: User exists
+2023-07-28T06:36:22.836Z error: Error: "username" is required
+2023-07-28T06:36:22.841Z error: Error: "password" is required
+2023-07-28T06:36:22.843Z error: Error: "email" is required
+2023-07-28T06:36:22.847Z error: Error: undefined
+2023-07-28T06:36:29.112Z error: Error: Error: User not found in DB
+2023-07-28T06:37:52.066Z error: User exists
+2023-07-28T06:37:52.563Z error: Error: "username" is required
+2023-07-28T06:37:52.569Z error: Error: "password" is required
+2023-07-28T06:37:52.571Z error: Error: "email" is required
+2023-07-28T06:37:52.576Z error: Error: undefined
+2023-07-28T06:37:58.659Z error: Error: Error: User not found in DB
+2023-07-28T06:39:41.897Z error: User exists
+2023-07-28T06:40:16.940Z error: User exists
+2023-07-28T06:40:17.417Z error: Error: "username" is required
+2023-07-28T06:40:17.424Z error: Error: "password" is required
+2023-07-28T06:40:17.425Z error: Error: "email" is required
+2023-07-28T06:40:17.429Z error: Error: undefined
+2023-07-28T06:40:17.392Z error: Error: Email is required
+2023-07-28T06:40:17.407Z error: Error: Email is required
+2023-07-28T06:40:23.408Z error: Error: Error: User not found in DB
+2023-07-28T06:41:58.970Z error: User exists
+2023-07-28T06:41:59.450Z error: Error: Email is required
+2023-07-28T06:41:59.465Z error: Error: Email is required
+2023-07-28T06:41:59.471Z error: res.status(...).send is not a function
+2023-07-28T06:41:59.474Z error: undefined
+2023-07-28T06:41:59.517Z error: Error: "username" is required
+2023-07-28T06:41:59.524Z error: Error: "password" is required
+2023-07-28T06:41:59.526Z error: Error: "email" is required
+2023-07-28T06:41:59.530Z error: Error: undefined
+2023-07-28T06:42:05.637Z error: Error: Error: User not found in DB
+2023-07-28T06:43:18.252Z error: User exists
+2023-07-28T06:43:18.690Z error: Error: "username" is required
+2023-07-28T06:43:18.697Z error: Error: "password" is required
+2023-07-28T06:43:18.699Z error: Error: "email" is required
+2023-07-28T06:43:18.704Z error: Error: undefined
+2023-07-28T06:43:18.741Z error: Error: Password is required
+2023-07-28T06:43:18.749Z error: Error: Email is required
+2023-07-28T06:43:18.763Z error: undefined
+2023-07-28T06:43:24.924Z error: Error: Error: User not found in DB
+2023-07-28T06:44:38.222Z error: User exists
+2023-07-28T06:44:38.779Z error: Error: "username" is required
+2023-07-28T06:44:38.785Z error: Error: "password" is required
+2023-07-28T06:44:38.787Z error: Error: "email" is required
+2023-07-28T06:44:38.791Z error: Error: undefined
+2023-07-28T06:44:38.783Z error: Error: Password is required
+2023-07-28T06:44:38.798Z error: Error: Email is required
+2023-07-28T06:44:38.809Z error: undefined
+2023-07-28T06:44:44.946Z error: Error: Error: User not found in DB
+2023-07-28T06:45:17.951Z error: User exists
+2023-07-28T06:45:18.454Z error: Error: Password is required
+2023-07-28T06:45:18.461Z error: Error: Email is required
+2023-07-28T06:45:18.467Z error: undefined
+2023-07-28T06:45:18.529Z error: Error: "username" is required
+2023-07-28T06:45:18.535Z error: Error: "password" is required
+2023-07-28T06:45:18.537Z error: Error: "email" is required
+2023-07-28T06:45:18.543Z error: Error: undefined
+2023-07-28T06:45:24.444Z error: Error: Error: User not found in DB
+2023-07-28T06:45:33.492Z error: User exists
+2023-07-28T06:45:33.806Z error: Error: "username" is required
+2023-07-28T06:45:33.818Z error: Error: "password" is required
+2023-07-28T06:45:33.819Z error: Error: "email" is required
+2023-07-28T06:45:33.825Z error: Error: undefined
+2023-07-28T06:45:33.925Z error: Error: Password is required
+2023-07-28T06:45:33.933Z error: Error: Email is required
+2023-07-28T06:45:33.938Z error: undefined
+2023-07-28T06:45:39.849Z error: Error: Error: User not found in DB
+2023-07-31T08:02:47.085Z error: User exists
+2023-07-31T08:02:47.086Z error: Error: user already exists
+2023-07-31T08:04:41.563Z error: Error: User not found in DB
+2023-07-31T08:33:49.403Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:34:25.185Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:34:39.421Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:34:55.831Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:35:14.761Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:35:14.798Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:37:21.069Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:39:21.270Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:39:34.938Z error: User exists
+2023-07-31T08:39:34.939Z error: Error: user already exists
+2023-07-31T08:42:37.268Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:43:25.417Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:44:46.718Z error: Error: "password" should contain at least 2 uppercase character
+2023-07-31T08:45:54.171Z error: Error: "password" should contain at least 2 numeric character
+2023-07-31T08:46:18.392Z error: User exists
+2023-07-31T08:46:18.393Z error: Error: user already exists
+2023-07-31T09:29:52.854Z error: Error cant login
+2023-07-31T09:40:14.778Z error: Cannot set properties of undefined (setting 'authorization')
+2023-07-31T10:43:08.557Z error: Error: Cannot update document for 6@example.com
+2023-07-31T10:44:45.185Z error: Error: Cannot update document for 6@example.com
+2023-07-31T10:45:04.523Z error: Error: Cannot update document for 6@example.com
+2023-07-31T10:46:27.361Z error: Error: Cannot update document for 6@example.com
+2023-07-31T10:47:12.643Z error: Error: Cannot update document for 6@example.com
+2023-07-31T10:49:00.155Z error: Error: Cannot update document for 6@example.com
+2023-08-02T17:34:53.016Z error: Error: Error: User not found in DB
+2023-08-02T18:05:16.440Z error: Error: Email is required
+2023-08-02T18:06:32.558Z error: Error: Email is required
+2023-08-02T18:14:41.107Z error: Error: Email is required
+2023-08-02T18:16:58.348Z error: Error: Email is required
+2023-08-02T18:17:21.873Z error: Error: Email is required
+2023-08-02T18:17:37.478Z error: Error: Password is required
+2023-08-02T18:17:46.838Z error: Error cant login
+2023-08-02T18:18:30.957Z error: Error: Password is required
+2023-08-02T18:18:35.411Z error: Error: Email is required
+2023-08-02T18:18:39.628Z error: Error: Password is required
+2023-08-02T18:18:42.648Z error: Error: User not found in DB
+2023-08-02T18:18:49.399Z error: Error cant login
+2023-08-02T18:19:01.813Z error: Error: "username" is not allowed to be empty
+2023-08-02T18:19:20.083Z error: Error: "password" is not allowed to be empty
+2023-08-02T18:19:34.008Z error: Error: "password" is not allowed to be empty
+2023-08-02T18:19:42.645Z error: Error: "password" should contain at least 2 uppercase character
+2023-08-02T18:20:00.159Z error: Error: "password" should contain at least 2 uppercase character
+2023-08-02T18:20:43.174Z error: Error: Cannot update document for 6@example.com
+2023-08-03T06:19:45.540Z error: Error: No documents matched the query. Deleted 0 documents
+2023-08-03T06:21:00.527Z error: Error: No documents matched the query. Deleted 0 documents
+2023-08-03T06:46:37.230Z error: Error: No documents matched the query. Deleted 0 documents
+2023-08-03T06:47:03.933Z error: Error: No documents matched the query. Deleted 0 documents
+2023-08-03T08:47:15.581Z error: Error: Email is required
+2023-08-03T08:48:49.194Z error: Error: User not found in DB
+2023-08-03T08:49:14.384Z error: Error: User not found in DB
+2023-08-03T08:49:22.849Z error: Error cant login
+2023-08-03T10:30:30.856Z error: Error: *@example.com not found
+2023-08-03T10:30:40.278Z error: Error: 8@example.com not found
+2023-08-03T13:03:57.631Z error: Error cant login
+2023-08-03T13:04:02.847Z error: Error cant login
+2023-08-03T13:04:07.629Z error: Error cant login
+2023-08-03T13:04:13.162Z error: Error cant login
+2023-08-08T10:24:52.390Z error: Error: User not found in DB
+2023-08-08T10:26:28.137Z error: Error: User not found in DB
+2023-08-08T10:26:53.406Z error: Error cant login
+2023-08-08T10:27:27.530Z error: Error: User not found in DB
+2023-08-08T10:27:55.692Z error: Error: User not found in DB
+2023-08-08T10:30:41.483Z error: Error: User not found in DB
+2023-08-08T11:42:37.280Z error: Error: Error: User not found in DB
+2023-08-08T13:07:48.874Z error: Error: Cannot update document for 6@example.com
+2023-08-08T13:08:34.668Z error: Error: Cannot update document for 6@example.com
+2023-08-08T14:37:49.870Z error: Error: undefined not found
+2023-08-08T14:38:44.195Z error: Error: undefined not found
+2023-08-08T14:48:17.363Z error: Error: undefined not found
+2023-08-08T15:01:17.512Z error: Error: Error: User not found in DB
+2023-08-08T15:01:17.900Z error: Error: Error: User not found in DB
+2023-08-08T15:01:21.913Z error: Error: Error: User not found in DB
