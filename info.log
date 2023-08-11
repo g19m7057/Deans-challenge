@@ -5842,3 +5842,8 @@
 2023-08-10T08:08:31.535Z info: User found
 2023-08-10T08:08:42.684Z info: GET /admin/getUsers/
 2023-08-10T08:08:43.090Z info: User found
+2023-08-11T18:35:35.600Z info: Successfully connected to port 4000
+2023-08-11T18:35:45.319Z info: POST /users/loginUser
+2023-08-11T18:35:45.831Z info: Successfully logged in
+2023-08-11T18:35:46.939Z info: GET /admin/getUsers/
+2023-08-11T18:35:47.421Z info: User found
