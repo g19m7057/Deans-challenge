@@ -18,6 +18,7 @@ async function saveUser(req){
       username:req.body.username,
       password: hashedPass,
       email_address: req.body.email,
+      role: 'user'
     }
 
     const newUser = new userDB(user);

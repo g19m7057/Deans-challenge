@@ -23,7 +23,7 @@ exports.loginUser = async function(req, res, next){
 
   await loginService.loginUser(email, password)
   .then(() => {
-    const token = jwt.sign({ username, email }, secretKey, { expiresIn: '1h' });
+    const token = jwt.sign({ username, email , role:'user' }, secretKey, { expiresIn: '1h' });
     logger.log({level: 'info', message: 'Successfully logged in'});
     return res.status(201).json({'success': true, 'message': 'Successfully logged in', token:token})
   })
@@ -36,7 +36,6 @@ exports.loginUser = async function(req, res, next){
 const saveUserService = require('../repository/saveService')
 
 exports.saveUser = async function(req, res, next){
-  console.log(req.body)
   const { error, value } = userSchema.validate(req.body);
   
   if(error){

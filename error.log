@@ -901,3 +901,5 @@
 2023-08-08T15:01:17.512Z error: Error: Error: User not found in DB
 2023-08-08T15:01:17.900Z error: Error: Error: User not found in DB
 2023-08-08T15:01:21.913Z error: Error: Error: User not found in DB
+2023-08-13T13:03:53.892Z error: Error: "username" is required
+2023-08-13T13:04:01.876Z error: Error: "username" is required

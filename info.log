@@ -5847,3 +5847,53 @@
 2023-08-11T18:35:45.831Z info: Successfully logged in
 2023-08-11T18:35:46.939Z info: GET /admin/getUsers/
 2023-08-11T18:35:47.421Z info: User found
+2023-08-11T19:30:36.162Z info: Successfully connected to port 4000
+2023-08-11T19:30:42.611Z info: GET /admin/getUsers/
+2023-08-11T19:30:56.259Z info: GET /users/getUser/6@example.com
+2023-08-11T19:31:15.790Z info: POST /users/loginUser
+2023-08-11T19:31:16.336Z info: Successfully logged in
+2023-08-11T19:31:29.051Z info: GET /users/getUser/6@example.com
+2023-08-11T19:31:29.440Z info: User found
+2023-08-11T19:31:34.375Z info: GET /admin/getUsers/
+2023-08-11T19:31:34.796Z info: User found
+2023-08-13T13:02:24.022Z info: Successfully connected to port 4000
+2023-08-13T13:03:19.384Z info: Successfully connected to port 4000
+2023-08-13T13:03:31.810Z info: Successfully connected to port 4000
+2023-08-13T13:03:53.887Z info: POST /users/createUser
+2023-08-13T13:03:53.892Z error: Error: "username" is required
+2023-08-13T13:04:01.874Z info: POST /users/createUser
+2023-08-13T13:04:01.876Z error: Error: "username" is required
+2023-08-13T13:04:59.754Z info: POST /users/createUser
+2023-08-13T13:05:00.860Z info: Successfully created user ID: 64d8d4fca94cb2d4dde68e72
+2023-08-13T13:05:44.772Z info: Successfully connected to port 4000
+2023-08-13T13:05:51.540Z info: Successfully connected to port 4000
+2023-08-13T13:06:01.343Z info: Successfully connected to port 4000
+2023-08-13T13:06:13.654Z info: POST /users/createUser
+2023-08-13T13:06:14.694Z info: Successfully created user ID: 64d8d546d92c1f297fd81a72
+2023-08-13T13:09:11.761Z info: Successfully connected to port 4000
+2023-08-13T13:09:35.201Z info: Successfully connected to port 4000
+2023-08-13T13:10:08.450Z info: Successfully connected to port 4000
+2023-08-13T13:11:08.862Z info: Successfully connected to port 4000
+2023-08-13T13:11:12.558Z info: Successfully connected to port 4000
+2023-08-13T13:11:15.795Z info: Successfully connected to port 4000
+2023-08-13T13:11:20.800Z info: Successfully connected to port 4000
+2023-08-13T13:11:23.825Z info: Successfully connected to port 4000
+2023-08-13T13:12:14.199Z info: Successfully connected to port 4000
+2023-08-13T13:13:36.229Z info: GET /admin/getUsers
+2023-08-13T13:13:45.590Z info: Successfully connected to port 4000
+2023-08-13T13:13:45.860Z info: GET /admin/getUsers
+2023-08-13T13:13:51.903Z info: User found
+2023-08-13T13:14:00.578Z info: Successfully connected to port 4000
+2023-08-13T13:14:25.698Z info: Successfully connected to port 4000
+2023-08-13T13:14:36.581Z info: Successfully connected to port 4000
+2023-08-13T13:15:48.955Z info: Successfully connected to port 4000
+2023-08-13T13:15:50.930Z info: Successfully connected to port 4000
+2023-08-13T13:15:58.109Z info: Successfully connected to port 4000
+2023-08-13T13:16:10.757Z info: Successfully connected to port 4000
+2023-08-13T13:16:13.678Z info: Successfully connected to port 4000
+2023-08-13T13:16:35.749Z info: Successfully connected to port 4000
+2023-08-13T13:16:38.286Z info: Successfully connected to port 4000
+2023-08-13T13:16:47.049Z info: Successfully connected to port 4000
+2023-08-13T13:40:26.949Z info: GET /admin/getUsers
+2023-08-13T13:41:02.791Z info: GET /admin/getUsers
+2023-08-13T13:41:03.318Z info: Users found
